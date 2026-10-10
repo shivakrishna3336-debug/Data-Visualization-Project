@@ -1,0 +1,601 @@
+Year,State,Crop,Season,Rainfall_mm,Temperature_C,Humidity_pct,Area_Hectares,Yield_Tonnes_per_Hectare,Production_Tonnes
+2015,Andhra Pradesh,Rice,Kharif,823.5,28.3,62.8,93424.0,3.77,352203.0
+2015,Andhra Pradesh,Wheat,Rabi,707.9,25.9,67.8,87277.0,2.79,243525.0
+2015,Andhra Pradesh,Maize,Kharif,866.0,30.4,54.1,60852.0,2.95,179804.0
+2015,Andhra Pradesh,Cotton,Kharif,705.4,29.2,59.0,83329.0,1.81,150532.0
+2015,Andhra Pradesh,Sugarcane,Kharif,802.0,27.3,73.1,80218.0,61.16,4905962.0
+2015,Andhra Pradesh,Groundnut,Kharif,899.3,28.8,70.5,37641.0,2.24,84295.0
+2015,Telangana,Rice,Kharif,794.5,27.3,69.8,74532.0,3.65,272203.0
+2015,Telangana,Wheat,Rabi,910.2,27.3,71.1,60649.0,3.5,212570.0
+2015,Telangana,Maize,Kharif,688.3,27.0,74.9,59012.0,3.17,187018.0
+2015,Telangana,Cotton,Kharif,703.7,30.1,63.5,47375.0,1.6,75794.0
+2015,Telangana,Sugarcane,Summer,781.4,32.3,57.1,36539.0,52.88,1932116.0
+2015,Telangana,Groundnut,Kharif,805.6,28.2,47.9,70794.0,2.14,151206.0
+2015,Punjab,Rice,Kharif,455.2,23.8,63.6,76176.0,3.18,242023.0
+2015,Punjab,Wheat,Rabi,691.9,24.7,60.7,97035.0,3.82,370977.0
+2015,Punjab,Maize,Summer,543.2,26.4,46.2,91030.0,2.91,264611.0
+2015,Punjab,Cotton,Kharif,595.9,25.5,54.4,61926.0,1.91,118136.0
+2015,Punjab,Sugarcane,Summer,544.2,25.1,66.9,60553.0,57.62,3488915.0
+2015,Punjab,Groundnut,Kharif,651.1,24.7,51.8,40832.0,2.12,86635.0
+2015,Haryana,Rice,Kharif,611.3,25.5,68.3,80391.0,4.37,351087.0
+2015,Haryana,Wheat,Rabi,537.8,24.8,56.5,58861.0,3.35,197306.0
+2015,Haryana,Maize,Rabi,538.7,23.7,57.3,71380.0,2.55,182207.0
+2015,Haryana,Cotton,Kharif,503.6,22.8,69.5,52952.0,1.77,93469.0
+2015,Haryana,Sugarcane,Kharif,581.7,24.1,53.0,39886.0,60.16,2399616.0
+2015,Haryana,Groundnut,Kharif,537.9,23.3,60.0,33935.0,1.79,60865.0
+2015,Uttar Pradesh,Rice,Kharif,721.9,26.7,74.7,91379.0,3.98,363921.0
+2015,Uttar Pradesh,Wheat,Rabi,717.7,27.0,73.9,76729.0,2.87,220060.0
+2015,Uttar Pradesh,Maize,Rabi,873.9,23.0,61.0,80330.0,3.16,254068.0
+2015,Uttar Pradesh,Cotton,Kharif,804.9,26.2,53.9,68564.0,2.13,145892.0
+2015,Uttar Pradesh,Sugarcane,Summer,739.5,24.4,60.5,54517.0,68.82,3752088.0
+2015,Uttar Pradesh,Groundnut,Kharif,543.4,28.6,53.5,63919.0,1.7,108471.0
+2015,Maharashtra,Rice,Kharif,1129.5,27.2,68.5,96989.0,4.01,388600.0
+2015,Maharashtra,Wheat,Rabi,983.7,27.2,72.7,94970.0,3.3,313197.0
+2015,Maharashtra,Maize,Rabi,873.9,26.2,75.6,98960.0,3.04,300629.0
+2015,Maharashtra,Cotton,Kharif,651.7,27.4,62.1,61129.0,1.5,91856.0
+2015,Maharashtra,Sugarcane,Rabi,827.7,28.1,65.2,60514.0,64.99,3932661.0
+2015,Maharashtra,Groundnut,Kharif,893.7,26.6,63.2,37302.0,1.88,69955.0
+2015,Karnataka,Rice,Kharif,1149.1,27.6,72.4,90893.0,3.62,328676.0
+2015,Karnataka,Wheat,Rabi,1118.5,25.6,73.9,58679.0,2.99,175644.0
+2015,Karnataka,Maize,Summer,1417.1,26.0,90.1,62694.0,3.55,222258.0
+2015,Karnataka,Cotton,Kharif,1173.7,27.4,71.6,71336.0,1.62,115254.0
+2015,Karnataka,Sugarcane,Rabi,1250.3,26.0,82.4,45875.0,64.53,2960273.0
+2015,Karnataka,Groundnut,Kharif,969.1,23.9,68.4,33715.0,2.05,69232.0
+2015,Tamil Nadu,Rice,Kharif,920.9,28.9,76.0,83533.0,3.11,259544.0
+2015,Tamil Nadu,Wheat,Rabi,862.6,28.4,48.8,76589.0,3.18,243859.0
+2015,Tamil Nadu,Maize,Kharif,941.8,27.9,69.5,76041.0,3.11,236337.0
+2015,Tamil Nadu,Cotton,Kharif,888.7,28.7,68.9,47811.0,1.81,86621.0
+2015,Tamil Nadu,Sugarcane,Summer,1075.2,29.0,62.6,45555.0,61.16,2786151.0
+2015,Tamil Nadu,Groundnut,Kharif,817.8,26.9,63.1,52225.0,2.16,112921.0
+2015,Madhya Pradesh,Rice,Kharif,601.8,26.9,60.5,88605.0,3.47,307739.0
+2015,Madhya Pradesh,Wheat,Rabi,903.2,25.8,57.0,81449.0,2.94,239697.0
+2015,Madhya Pradesh,Maize,Rabi,1227.5,24.0,68.2,76540.0,3.42,262028.0
+2015,Madhya Pradesh,Cotton,Kharif,907.9,24.2,75.3,61074.0,1.55,94722.0
+2015,Madhya Pradesh,Sugarcane,Summer,898.7,28.0,68.5,55600.0,56.14,3121654.0
+2015,Madhya Pradesh,Groundnut,Kharif,1141.2,27.1,68.1,69741.0,2.31,161092.0
+2015,West Bengal,Rice,Kharif,1489.8,29.4,75.0,98842.0,3.93,388277.0
+2015,West Bengal,Wheat,Rabi,1452.0,27.0,70.0,85212.0,2.83,241034.0
+2015,West Bengal,Maize,Kharif,1270.2,26.7,71.2,52823.0,2.87,151757.0
+2015,West Bengal,Cotton,Kharif,1486.8,27.5,86.9,42092.0,1.85,77879.0
+2015,West Bengal,Sugarcane,Rabi,1274.0,27.1,76.0,62646.0,70.98,4446362.0
+2015,West Bengal,Groundnut,Kharif,1528.2,24.8,80.3,46111.0,2.03,93588.0
+2016,Andhra Pradesh,Rice,Kharif,1063.2,30.0,73.3,76845.0,3.74,287666.0
+2016,Andhra Pradesh,Wheat,Rabi,1050.3,31.2,80.4,56084.0,3.43,192303.0
+2016,Andhra Pradesh,Maize,Rabi,1095.8,28.9,60.6,92119.0,3.3,303871.0
+2016,Andhra Pradesh,Cotton,Kharif,1035.4,26.6,66.2,80498.0,1.71,137478.0
+2016,Andhra Pradesh,Sugarcane,Kharif,926.0,27.8,68.6,43072.0,61.9,2666289.0
+2016,Andhra Pradesh,Groundnut,Kharif,890.3,27.6,69.4,52165.0,2.01,104663.0
+2016,Telangana,Rice,Kharif,1074.4,26.3,66.3,93401.0,3.82,356588.0
+2016,Telangana,Wheat,Rabi,1005.8,28.8,70.1,70462.0,3.73,262863.0
+2016,Telangana,Maize,Kharif,479.6,27.1,66.5,65049.0,2.59,168644.0
+2016,Telangana,Cotton,Kharif,866.7,27.6,67.8,52962.0,2.03,107337.0
+2016,Telangana,Sugarcane,Kharif,825.9,31.2,79.6,50016.0,60.8,3040939.0
+2016,Telangana,Groundnut,Kharif,788.2,26.8,59.8,35870.0,1.85,66260.0
+2016,Punjab,Rice,Kharif,567.1,23.5,53.6,114940.0,3.78,434128.0
+2016,Punjab,Wheat,Rabi,587.1,25.7,53.4,95453.0,3.13,298460.0
+2016,Punjab,Maize,Kharif,669.9,26.5,52.4,88519.0,2.79,246640.0
+2016,Punjab,Cotton,Kharif,518.6,23.9,61.1,56617.0,1.62,91793.0
+2016,Punjab,Sugarcane,Summer,543.0,23.8,48.7,67215.0,63.7,4281559.0
+2016,Punjab,Groundnut,Kharif,686.5,21.1,60.2,38569.0,1.93,74342.0
+2016,Haryana,Rice,Kharif,473.9,23.4,71.6,97123.0,3.26,316401.0
+2016,Haryana,Wheat,Rabi,478.0,27.4,58.6,79662.0,3.6,286499.0
+2016,Haryana,Maize,Summer,560.0,24.6,50.3,73262.0,2.78,203526.0
+2016,Haryana,Cotton,Kharif,504.0,23.5,58.2,74045.0,1.54,113861.0
+2016,Haryana,Sugarcane,Kharif,550.6,24.1,62.2,35031.0,65.1,2280644.0
+2016,Haryana,Groundnut,Kharif,348.6,23.9,57.7,52885.0,1.94,102386.0
+2016,Uttar Pradesh,Rice,Kharif,588.7,26.2,54.5,120360.0,3.49,419498.0
+2016,Uttar Pradesh,Wheat,Rabi,853.3,23.8,50.5,108514.0,3.31,358642.0
+2016,Uttar Pradesh,Maize,Kharif,741.6,25.0,61.8,90629.0,3.14,285013.0
+2016,Uttar Pradesh,Cotton,Kharif,762.6,24.8,58.6,64527.0,1.64,106013.0
+2016,Uttar Pradesh,Sugarcane,Rabi,758.5,27.8,64.7,63237.0,58.29,3686399.0
+2016,Uttar Pradesh,Groundnut,Kharif,693.3,27.1,62.9,73306.0,1.98,145248.0
+2016,Maharashtra,Rice,Kharif,889.9,27.1,68.3,87410.0,3.87,338266.0
+2016,Maharashtra,Wheat,Rabi,976.0,26.9,73.1,82154.0,3.27,268862.0
+2016,Maharashtra,Maize,Rabi,898.2,28.4,75.3,63844.0,2.9,185459.0
+2016,Maharashtra,Cotton,Kharif,918.3,24.5,71.8,60107.0,1.72,103207.0
+2016,Maharashtra,Sugarcane,Rabi,1088.4,27.3,65.4,52514.0,60.82,3193873.0
+2016,Maharashtra,Groundnut,Kharif,864.1,27.2,63.2,56700.0,2.01,113852.0
+2016,Karnataka,Rice,Kharif,1048.2,25.9,65.3,79936.0,3.66,292471.0
+2016,Karnataka,Wheat,Rabi,1258.6,26.5,73.0,91118.0,3.66,333479.0
+2016,Karnataka,Maize,Rabi,1008.0,29.4,55.3,78776.0,2.78,218946.0
+2016,Karnataka,Cotton,Kharif,1087.5,25.6,73.2,56956.0,1.65,93869.0
+2016,Karnataka,Sugarcane,Summer,1132.6,26.1,69.5,78190.0,69.28,5417356.0
+2016,Karnataka,Groundnut,Kharif,1102.9,27.6,81.5,70198.0,2.08,145757.0
+2016,Tamil Nadu,Rice,Kharif,893.0,29.4,50.7,57420.0,3.7,212513.0
+2016,Tamil Nadu,Wheat,Rabi,914.5,27.2,61.8,87307.0,3.66,319574.0
+2016,Tamil Nadu,Maize,Summer,729.9,24.9,53.1,72697.0,2.56,186357.0
+2016,Tamil Nadu,Cotton,Kharif,820.9,26.2,73.2,65886.0,2.0,131650.0
+2016,Tamil Nadu,Sugarcane,Summer,991.4,25.7,64.8,48326.0,69.04,3336440.0
+2016,Tamil Nadu,Groundnut,Kharif,868.4,27.6,63.8,44368.0,2.03,90099.0
+2016,Madhya Pradesh,Rice,Kharif,814.5,26.1,53.9,108517.0,3.53,383192.0
+2016,Madhya Pradesh,Wheat,Rabi,1053.2,26.8,57.7,82418.0,3.43,282969.0
+2016,Madhya Pradesh,Maize,Summer,1022.3,24.5,71.5,57108.0,2.88,164217.0
+2016,Madhya Pradesh,Cotton,Kharif,1004.4,29.3,65.5,75396.0,1.88,141426.0
+2016,Madhya Pradesh,Sugarcane,Summer,867.2,25.2,77.8,62212.0,59.21,3683682.0
+2016,Madhya Pradesh,Groundnut,Kharif,1064.1,28.5,60.2,74399.0,2.21,164131.0
+2016,West Bengal,Rice,Kharif,1413.4,27.7,77.1,83372.0,3.82,318692.0
+2016,West Bengal,Wheat,Rabi,1015.7,27.7,63.4,64648.0,3.03,195567.0
+2016,West Bengal,Maize,Kharif,1560.7,28.1,74.9,58418.0,3.05,178177.0
+2016,West Bengal,Cotton,Kharif,1127.9,27.8,58.8,68462.0,1.64,112243.0
+2016,West Bengal,Sugarcane,Summer,1222.2,27.9,72.2,74288.0,59.21,4398395.0
+2016,West Bengal,Groundnut,Kharif,1392.7,24.1,72.3,43721.0,2.25,98464.0
+2017,Andhra Pradesh,Rice,Kharif,845.0,30.4,64.6,68860.0,3.87,266317.0
+2017,Andhra Pradesh,Wheat,Rabi,937.8,27.6,61.9,88559.0,3.49,308878.0
+2017,Andhra Pradesh,Maize,Kharif,817.3,32.3,53.3,61895.0,2.38,147317.0
+2017,Andhra Pradesh,Cotton,Kharif,991.9,27.4,73.0,48256.0,1.86,89557.0
+2017,Andhra Pradesh,Sugarcane,Rabi,673.4,31.6,60.7,79118.0,50.86,4024262.0
+2017,Andhra Pradesh,Groundnut,Kharif,1032.6,29.2,58.0,42497.0,1.91,81043.0
+2017,Telangana,Rice,Kharif,977.1,25.9,71.0,81123.0,3.93,318505.0
+2017,Telangana,Wheat,Rabi,684.4,30.0,52.2,58623.0,2.87,168290.0
+2017,Telangana,Maize,Rabi,793.3,30.9,54.9,67929.0,2.4,163207.0
+2017,Telangana,Cotton,Kharif,910.7,28.9,66.0,36785.0,1.68,61735.0
+2017,Telangana,Sugarcane,Kharif,896.3,29.8,65.4,50124.0,62.12,3113569.0
+2017,Telangana,Groundnut,Kharif,751.2,28.4,63.6,64574.0,2.13,137629.0
+2017,Punjab,Rice,Kharif,474.6,25.2,68.2,83778.0,3.68,308201.0
+2017,Punjab,Wheat,Rabi,498.3,21.8,49.9,95646.0,3.14,299937.0
+2017,Punjab,Maize,Rabi,645.1,24.1,63.4,83687.0,3.23,270087.0
+2017,Punjab,Cotton,Kharif,548.8,24.1,66.2,78360.0,1.89,147979.0
+2017,Punjab,Sugarcane,Rabi,505.2,24.6,59.6,62432.0,62.38,3894620.0
+2017,Punjab,Groundnut,Kharif,591.9,25.5,74.4,72753.0,2.36,171565.0
+2017,Haryana,Rice,Kharif,350.2,23.5,65.5,80702.0,3.14,253162.0
+2017,Haryana,Wheat,Rabi,697.9,25.7,51.3,79924.0,3.97,317405.0
+2017,Haryana,Maize,Kharif,647.1,25.1,67.7,35505.0,3.14,111479.0
+2017,Haryana,Cotton,Kharif,482.2,25.8,60.7,60866.0,1.78,108469.0
+2017,Haryana,Sugarcane,Rabi,497.2,28.4,61.1,38514.0,61.9,2383952.0
+2017,Haryana,Groundnut,Kharif,517.7,26.2,65.0,46176.0,2.14,98653.0
+2017,Uttar Pradesh,Rice,Kharif,946.1,26.4,58.9,98723.0,3.56,351254.0
+2017,Uttar Pradesh,Wheat,Rabi,624.3,28.4,51.6,82528.0,2.82,232727.0
+2017,Uttar Pradesh,Maize,Summer,832.4,27.4,69.7,72194.0,2.63,189757.0
+2017,Uttar Pradesh,Cotton,Kharif,606.5,24.8,58.2,61376.0,1.54,94298.0
+2017,Uttar Pradesh,Sugarcane,Rabi,1090.0,29.0,75.1,59355.0,61.65,3659414.0
+2017,Uttar Pradesh,Groundnut,Kharif,834.8,25.1,62.1,47204.0,2.07,97853.0
+2017,Maharashtra,Rice,Kharif,1191.5,23.7,70.6,112930.0,3.71,418623.0
+2017,Maharashtra,Wheat,Rabi,1132.1,26.3,79.4,76379.0,3.23,246915.0
+2017,Maharashtra,Maize,Rabi,813.2,29.2,63.4,79055.0,2.95,233405.0
+2017,Maharashtra,Cotton,Kharif,1074.1,25.5,60.7,48144.0,1.9,91560.0
+2017,Maharashtra,Sugarcane,Rabi,849.9,28.5,56.7,59972.0,59.05,3541228.0
+2017,Maharashtra,Groundnut,Kharif,1057.0,29.1,63.3,54834.0,2.24,123080.0
+2017,Karnataka,Rice,Kharif,1401.3,26.7,70.6,63943.0,3.77,241186.0
+2017,Karnataka,Wheat,Rabi,932.5,23.9,73.7,79063.0,2.75,217599.0
+2017,Karnataka,Maize,Summer,1270.0,25.8,82.6,81664.0,2.8,228667.0
+2017,Karnataka,Cotton,Kharif,1136.0,25.9,78.0,78608.0,2.13,167194.0
+2017,Karnataka,Sugarcane,Kharif,632.0,26.8,54.4,70903.0,62.36,4421334.0
+2017,Karnataka,Groundnut,Kharif,1323.4,23.9,77.0,41928.0,2.09,87777.0
+2017,Tamil Nadu,Rice,Kharif,865.7,25.8,65.7,74168.0,3.26,241796.0
+2017,Tamil Nadu,Wheat,Rabi,683.2,25.8,72.7,72353.0,3.12,225455.0
+2017,Tamil Nadu,Maize,Kharif,931.2,25.9,69.0,65474.0,2.89,189365.0
+2017,Tamil Nadu,Cotton,Kharif,1048.2,28.3,73.9,57455.0,1.81,103953.0
+2017,Tamil Nadu,Sugarcane,Kharif,723.2,27.7,62.9,42660.0,54.55,2327239.0
+2017,Tamil Nadu,Groundnut,Kharif,1061.3,26.7,68.8,72364.0,1.99,143896.0
+2017,Madhya Pradesh,Rice,Kharif,887.4,26.3,64.7,90898.0,3.92,356636.0
+2017,Madhya Pradesh,Wheat,Rabi,1217.8,24.9,74.9,95638.0,3.33,318308.0
+2017,Madhya Pradesh,Maize,Summer,881.6,29.5,61.8,59063.0,2.62,154862.0
+2017,Madhya Pradesh,Cotton,Kharif,1341.4,26.1,78.4,69779.0,1.92,133735.0
+2017,Madhya Pradesh,Sugarcane,Rabi,1152.6,26.0,79.8,55584.0,64.46,3582858.0
+2017,Madhya Pradesh,Groundnut,Kharif,778.2,25.2,62.7,49746.0,2.13,105754.0
+2017,West Bengal,Rice,Kharif,926.4,27.6,62.7,105938.0,3.45,365104.0
+2017,West Bengal,Wheat,Rabi,1241.3,29.2,63.6,68314.0,3.24,221583.0
+2017,West Bengal,Maize,Summer,1391.2,26.9,82.0,77667.0,2.59,201205.0
+2017,West Bengal,Cotton,Kharif,1461.0,27.2,72.7,64282.0,2.04,131160.0
+2017,West Bengal,Sugarcane,Rabi,1443.6,26.7,80.8,66280.0,74.68,4949685.0
+2017,West Bengal,Groundnut,Kharif,925.0,27.0,68.1,42908.0,2.14,91778.0
+2018,Andhra Pradesh,Rice,Kharif,631.4,28.9,60.0,74089.0,2.97,219910.0
+2018,Andhra Pradesh,Wheat,Rabi,971.7,28.4,79.9,75777.0,3.47,263182.0
+2018,Andhra Pradesh,Maize,Rabi,1151.2,28.1,61.3,83851.0,2.7,226516.0
+2018,Andhra Pradesh,Cotton,Kharif,737.5,28.3,57.2,43640.0,1.77,77285.0
+2018,Andhra Pradesh,Sugarcane,Summer,958.5,28.4,66.2,57938.0,72.26,4186377.0
+2018,Andhra Pradesh,Groundnut,Kharif,593.9,27.4,59.9,55267.0,2.14,118181.0
+2018,Telangana,Rice,Kharif,964.8,28.5,63.0,80088.0,4.13,330864.0
+2018,Telangana,Wheat,Rabi,809.2,30.7,75.3,87052.0,2.72,236846.0
+2018,Telangana,Maize,Rabi,627.1,31.6,57.2,47079.0,2.65,124689.0
+2018,Telangana,Cotton,Kharif,821.2,26.2,56.1,34757.0,1.91,66283.0
+2018,Telangana,Sugarcane,Rabi,996.8,29.4,50.7,59974.0,71.56,4291483.0
+2018,Telangana,Groundnut,Kharif,1038.0,30.4,48.9,36766.0,2.0,73680.0
+2018,Punjab,Rice,Kharif,584.2,25.2,69.0,109675.0,3.65,399869.0
+2018,Punjab,Wheat,Rabi,560.7,22.9,57.6,87396.0,3.4,296776.0
+2018,Punjab,Maize,Kharif,820.7,24.4,67.2,96495.0,3.27,315137.0
+2018,Punjab,Cotton,Kharif,475.2,23.3,58.6,86039.0,1.86,159638.0
+2018,Punjab,Sugarcane,Summer,843.9,24.7,66.2,65771.0,66.4,4366938.0
+2018,Punjab,Groundnut,Kharif,708.2,26.5,62.7,56435.0,2.38,134536.0
+2018,Haryana,Rice,Kharif,565.9,26.4,60.0,84249.0,3.99,336018.0
+2018,Haryana,Wheat,Rabi,410.8,24.7,44.1,79808.0,3.16,252137.0
+2018,Haryana,Maize,Kharif,498.1,25.4,49.2,51798.0,3.35,173719.0
+2018,Haryana,Cotton,Kharif,517.9,24.1,57.0,54159.0,2.07,112060.0
+2018,Haryana,Sugarcane,Rabi,520.7,25.4,56.3,39855.0,74.06,2951531.0
+2018,Haryana,Groundnut,Kharif,537.1,25.8,65.3,60412.0,2.21,133550.0
+2018,Uttar Pradesh,Rice,Kharif,746.6,25.3,57.4,96237.0,3.75,360463.0
+2018,Uttar Pradesh,Wheat,Rabi,572.6,27.7,66.7,108425.0,3.39,367962.0
+2018,Uttar Pradesh,Maize,Summer,759.8,25.7,57.6,84191.0,2.93,246400.0
+2018,Uttar Pradesh,Cotton,Kharif,650.2,27.0,66.6,78521.0,1.86,145859.0
+2018,Uttar Pradesh,Sugarcane,Rabi,960.3,26.0,63.1,67145.0,62.38,4188562.0
+2018,Uttar Pradesh,Groundnut,Kharif,585.8,27.6,56.7,65746.0,1.75,115130.0
+2018,Maharashtra,Rice,Kharif,1179.9,26.6,66.6,86933.0,4.27,371590.0
+2018,Maharashtra,Wheat,Rabi,1138.4,26.6,71.3,90895.0,3.23,293646.0
+2018,Maharashtra,Maize,Rabi,856.7,28.6,66.6,95270.0,2.62,249232.0
+2018,Maharashtra,Cotton,Kharif,1222.4,28.8,62.9,83472.0,1.91,159657.0
+2018,Maharashtra,Sugarcane,Rabi,1226.0,24.0,75.0,48496.0,72.21,3501801.0
+2018,Maharashtra,Groundnut,Kharif,1345.1,27.6,75.7,50338.0,2.07,104293.0
+2018,Karnataka,Rice,Kharif,1083.0,25.0,67.9,86122.0,4.1,353118.0
+2018,Karnataka,Wheat,Rabi,959.0,25.5,72.3,93971.0,2.84,267152.0
+2018,Karnataka,Maize,Summer,953.8,25.9,62.1,70017.0,2.81,196601.0
+2018,Karnataka,Cotton,Kharif,931.8,29.1,53.6,45360.0,1.54,69791.0
+2018,Karnataka,Sugarcane,Summer,1201.5,26.3,63.6,59660.0,69.71,4159119.0
+2018,Karnataka,Groundnut,Kharif,1019.3,26.6,60.7,50144.0,1.87,93906.0
+2018,Tamil Nadu,Rice,Kharif,844.0,26.4,58.1,74764.0,3.36,251169.0
+2018,Tamil Nadu,Wheat,Rabi,983.7,28.1,71.3,100428.0,3.51,352741.0
+2018,Tamil Nadu,Maize,Rabi,914.0,28.8,57.8,61409.0,2.59,159114.0
+2018,Tamil Nadu,Cotton,Kharif,825.3,27.9,53.9,47123.0,1.69,79773.0
+2018,Tamil Nadu,Sugarcane,Rabi,961.8,27.8,81.8,52903.0,71.98,3808037.0
+2018,Tamil Nadu,Groundnut,Kharif,756.6,27.3,60.6,33822.0,1.81,61382.0
+2018,Madhya Pradesh,Rice,Kharif,1178.7,26.3,73.1,73458.0,4.21,308906.0
+2018,Madhya Pradesh,Wheat,Rabi,1094.3,25.8,71.5,77360.0,3.5,270456.0
+2018,Madhya Pradesh,Maize,Summer,1330.2,27.5,72.7,62910.0,3.41,214739.0
+2018,Madhya Pradesh,Cotton,Kharif,1242.2,27.0,66.7,60969.0,2.07,126238.0
+2018,Madhya Pradesh,Sugarcane,Rabi,987.1,23.6,68.6,49927.0,58.35,2913120.0
+2018,Madhya Pradesh,Groundnut,Kharif,1105.3,27.9,69.4,36067.0,1.94,69833.0
+2018,West Bengal,Rice,Kharif,1513.1,26.0,76.5,64738.0,3.72,240754.0
+2018,West Bengal,Wheat,Rabi,1748.0,26.8,74.0,68130.0,3.79,258399.0
+2018,West Bengal,Maize,Summer,1368.7,29.0,63.8,71290.0,3.09,219943.0
+2018,West Bengal,Cotton,Kharif,1285.3,26.9,79.0,65503.0,1.56,102265.0
+2018,West Bengal,Sugarcane,Rabi,1520.1,27.1,85.3,37478.0,68.33,2560782.0
+2018,West Bengal,Groundnut,Kharif,1205.7,27.6,58.9,43885.0,2.25,98831.0
+2019,Andhra Pradesh,Rice,Kharif,657.8,29.5,57.0,76378.0,3.29,251426.0
+2019,Andhra Pradesh,Wheat,Rabi,940.4,29.1,77.7,96312.0,3.06,295155.0
+2019,Andhra Pradesh,Maize,Summer,1091.1,29.7,79.1,72582.0,3.4,247042.0
+2019,Andhra Pradesh,Cotton,Kharif,712.5,28.4,51.3,79751.0,1.66,132524.0
+2019,Andhra Pradesh,Sugarcane,Rabi,889.4,28.2,60.5,47312.0,61.25,2897856.0
+2019,Andhra Pradesh,Groundnut,Kharif,775.5,28.2,62.6,74437.0,2.29,170444.0
+2019,Telangana,Rice,Kharif,815.8,28.7,72.5,85180.0,3.94,335297.0
+2019,Telangana,Wheat,Rabi,804.0,31.1,61.3,67306.0,3.18,213836.0
+2019,Telangana,Maize,Kharif,829.9,30.4,67.0,39968.0,2.92,116810.0
+2019,Telangana,Cotton,Kharif,989.8,27.1,63.3,40070.0,1.97,79015.0
+2019,Telangana,Sugarcane,Rabi,853.0,29.1,57.9,77220.0,60.31,4657313.0
+2019,Telangana,Groundnut,Kharif,889.3,28.3,68.9,45899.0,1.98,90701.0
+2019,Punjab,Rice,Kharif,679.4,23.0,49.9,88639.0,3.7,327533.0
+2019,Punjab,Wheat,Rabi,538.2,22.2,51.5,77893.0,2.78,216580.0
+2019,Punjab,Maize,Kharif,737.4,22.6,63.6,68072.0,2.97,202185.0
+2019,Punjab,Cotton,Kharif,517.7,25.8,58.6,78416.0,1.7,133079.0
+2019,Punjab,Sugarcane,Summer,666.0,23.7,62.0,91855.0,71.37,6555537.0
+2019,Punjab,Groundnut,Kharif,706.2,24.1,57.5,42057.0,2.15,90445.0
+2019,Haryana,Rice,Kharif,589.3,22.7,52.1,80522.0,3.29,265269.0
+2019,Haryana,Wheat,Rabi,608.6,27.0,61.3,73900.0,3.34,246895.0
+2019,Haryana,Maize,Rabi,530.0,24.9,66.0,45302.0,2.84,128640.0
+2019,Haryana,Cotton,Kharif,576.0,24.0,62.4,52727.0,1.82,96074.0
+2019,Haryana,Sugarcane,Kharif,647.1,22.5,67.0,47231.0,64.33,3038140.0
+2019,Haryana,Groundnut,Kharif,506.7,26.1,62.2,52648.0,2.01,106016.0
+2019,Uttar Pradesh,Rice,Kharif,952.6,28.0,63.9,107798.0,3.31,356369.0
+2019,Uttar Pradesh,Wheat,Rabi,914.1,25.9,71.0,79233.0,3.46,274430.0
+2019,Uttar Pradesh,Maize,Summer,841.3,26.7,63.4,104363.0,3.12,325575.0
+2019,Uttar Pradesh,Cotton,Kharif,767.9,25.0,67.0,77763.0,1.77,137324.0
+2019,Uttar Pradesh,Sugarcane,Kharif,803.1,28.7,61.4,63286.0,70.44,4458076.0
+2019,Uttar Pradesh,Groundnut,Kharif,633.3,26.7,54.0,49625.0,2.19,108483.0
+2019,Maharashtra,Rice,Kharif,997.7,27.2,61.3,110210.0,3.36,370006.0
+2019,Maharashtra,Wheat,Rabi,904.2,25.7,54.0,115687.0,3.36,388572.0
+2019,Maharashtra,Maize,Summer,849.9,26.7,54.3,81381.0,3.33,270855.0
+2019,Maharashtra,Cotton,Kharif,999.3,27.4,68.3,57712.0,1.95,112765.0
+2019,Maharashtra,Sugarcane,Summer,1168.0,28.3,70.0,57121.0,64.21,3667999.0
+2019,Maharashtra,Groundnut,Kharif,878.8,28.9,69.8,42694.0,2.28,97446.0
+2019,Karnataka,Rice,Kharif,1034.3,26.3,74.8,99271.0,4.12,408885.0
+2019,Karnataka,Wheat,Rabi,1270.1,26.4,75.5,56582.0,3.25,183694.0
+2019,Karnataka,Maize,Rabi,599.3,25.8,54.4,65550.0,2.96,193802.0
+2019,Karnataka,Cotton,Kharif,1212.5,27.4,73.4,35900.0,1.77,63543.0
+2019,Karnataka,Sugarcane,Kharif,1210.2,24.7,64.5,62841.0,76.5,4807361.0
+2019,Karnataka,Groundnut,Kharif,1087.2,26.9,66.0,40269.0,2.29,92386.0
+2019,Tamil Nadu,Rice,Kharif,943.4,28.7,59.2,82318.0,4.07,334896.0
+2019,Tamil Nadu,Wheat,Rabi,1003.6,29.2,71.9,79103.0,3.03,239532.0
+2019,Tamil Nadu,Maize,Rabi,822.0,27.3,61.2,50821.0,2.54,129031.0
+2019,Tamil Nadu,Cotton,Kharif,1047.0,27.2,73.3,53438.0,2.14,114146.0
+2019,Tamil Nadu,Sugarcane,Kharif,1142.9,29.1,61.2,66052.0,69.82,4611634.0
+2019,Tamil Nadu,Groundnut,Kharif,1030.7,27.9,57.9,32810.0,1.86,61153.0
+2019,Madhya Pradesh,Rice,Kharif,1316.1,27.2,68.0,98028.0,3.97,388730.0
+2019,Madhya Pradesh,Wheat,Rabi,850.0,24.9,70.5,81129.0,3.46,280504.0
+2019,Madhya Pradesh,Maize,Summer,1154.2,27.2,67.4,80317.0,3.47,278542.0
+2019,Madhya Pradesh,Cotton,Kharif,1156.4,26.3,54.3,59521.0,1.71,101739.0
+2019,Madhya Pradesh,Sugarcane,Rabi,1016.7,25.2,58.9,46074.0,76.58,3528195.0
+2019,Madhya Pradesh,Groundnut,Kharif,1077.9,26.9,72.1,56865.0,2.29,130042.0
+2019,West Bengal,Rice,Kharif,1937.7,27.6,95.0,77868.0,4.07,317135.0
+2019,West Bengal,Wheat,Rabi,1423.7,25.9,73.0,90560.0,3.02,273045.0
+2019,West Bengal,Maize,Summer,1807.0,26.8,83.8,54228.0,2.83,153431.0
+2019,West Bengal,Cotton,Kharif,1539.8,28.4,77.0,56819.0,1.84,104495.0
+2019,West Bengal,Sugarcane,Rabi,829.1,28.5,73.7,73391.0,50.97,3740971.0
+2019,West Bengal,Groundnut,Kharif,1194.1,29.0,63.2,52650.0,1.92,101057.0
+2020,Andhra Pradesh,Rice,Kharif,859.2,28.4,63.1,89299.0,3.53,314807.0
+2020,Andhra Pradesh,Wheat,Rabi,850.5,28.6,68.3,67394.0,3.24,218399.0
+2020,Andhra Pradesh,Maize,Kharif,634.6,30.0,63.6,70108.0,2.4,168437.0
+2020,Andhra Pradesh,Cotton,Kharif,992.0,29.8,65.0,48800.0,2.01,98082.0
+2020,Andhra Pradesh,Sugarcane,Rabi,989.1,27.8,60.8,43858.0,59.43,2606564.0
+2020,Andhra Pradesh,Groundnut,Kharif,867.8,30.3,60.2,50882.0,2.23,113665.0
+2020,Telangana,Rice,Kharif,1012.8,30.9,65.3,60419.0,3.89,234730.0
+2020,Telangana,Wheat,Rabi,653.6,28.2,62.6,73324.0,3.17,232701.0
+2020,Telangana,Maize,Summer,886.9,30.2,56.0,53909.0,2.47,133197.0
+2020,Telangana,Cotton,Kharif,1031.4,28.1,63.7,45631.0,1.75,79686.0
+2020,Telangana,Sugarcane,Summer,767.2,30.1,61.0,43203.0,59.23,2558878.0
+2020,Telangana,Groundnut,Kharif,770.6,29.5,71.3,64630.0,1.89,121889.0
+2020,Punjab,Rice,Kharif,757.2,24.6,52.9,105560.0,3.89,410682.0
+2020,Punjab,Wheat,Rabi,722.5,25.3,67.3,97952.0,3.12,306038.0
+2020,Punjab,Maize,Kharif,636.1,26.0,56.2,68789.0,3.37,231699.0
+2020,Punjab,Cotton,Kharif,711.5,25.8,56.2,60576.0,2.07,125575.0
+2020,Punjab,Sugarcane,Rabi,778.3,24.7,68.7,51080.0,61.86,3159781.0
+2020,Punjab,Groundnut,Kharif,571.6,25.7,59.6,71952.0,1.87,134229.0
+2020,Haryana,Rice,Kharif,556.2,27.1,64.5,65785.0,3.45,227203.0
+2020,Haryana,Wheat,Rabi,623.7,25.2,63.6,83726.0,3.32,278310.0
+2020,Haryana,Maize,Rabi,518.8,26.3,53.9,61225.0,3.04,186250.0
+2020,Haryana,Cotton,Kharif,677.0,25.9,61.5,46844.0,2.23,104537.0
+2020,Haryana,Sugarcane,Summer,543.6,24.7,64.1,59108.0,75.42,4457785.0
+2020,Haryana,Groundnut,Kharif,498.9,24.7,63.6,61283.0,2.05,125726.0
+2020,Uttar Pradesh,Rice,Kharif,838.7,26.8,61.0,80901.0,3.78,305958.0
+2020,Uttar Pradesh,Wheat,Rabi,962.8,29.1,76.5,118278.0,3.16,374271.0
+2020,Uttar Pradesh,Maize,Rabi,1011.1,26.6,65.1,91951.0,3.52,324085.0
+2020,Uttar Pradesh,Cotton,Kharif,609.8,26.3,55.8,92400.0,1.71,158416.0
+2020,Uttar Pradesh,Sugarcane,Summer,905.5,27.6,59.8,90315.0,74.54,6731887.0
+2020,Uttar Pradesh,Groundnut,Kharif,687.0,25.3,60.1,78638.0,2.41,189670.0
+2020,Maharashtra,Rice,Kharif,916.7,26.7,72.9,102105.0,3.67,375026.0
+2020,Maharashtra,Wheat,Rabi,968.3,24.8,56.8,108097.0,3.09,334491.0
+2020,Maharashtra,Maize,Summer,1091.2,27.0,74.5,79436.0,2.78,220619.0
+2020,Maharashtra,Cotton,Kharif,957.9,25.9,68.5,41751.0,2.07,86235.0
+2020,Maharashtra,Sugarcane,Summer,982.6,25.0,57.6,61734.0,76.54,4724981.0
+2020,Maharashtra,Groundnut,Kharif,863.8,27.4,71.8,55071.0,2.08,114593.0
+2020,Karnataka,Rice,Kharif,906.1,25.6,72.2,71600.0,3.92,280943.0
+2020,Karnataka,Wheat,Rabi,1151.6,27.8,75.0,78179.0,3.08,240484.0
+2020,Karnataka,Maize,Rabi,1208.8,24.0,67.6,55063.0,3.03,167106.0
+2020,Karnataka,Cotton,Kharif,771.8,25.0,61.6,49770.0,1.78,88699.0
+2020,Karnataka,Sugarcane,Summer,795.8,28.9,70.4,28119.0,64.6,1816548.0
+2020,Karnataka,Groundnut,Kharif,1132.6,27.3,67.8,40214.0,2.09,83917.0
+2020,Tamil Nadu,Rice,Kharif,960.1,29.8,68.7,90753.0,3.94,357596.0
+2020,Tamil Nadu,Wheat,Rabi,939.7,27.5,58.8,62073.0,3.03,188391.0
+2020,Tamil Nadu,Maize,Summer,1057.1,27.6,68.2,66682.0,2.91,194009.0
+2020,Tamil Nadu,Cotton,Kharif,740.7,28.6,73.9,77125.0,1.94,149372.0
+2020,Tamil Nadu,Sugarcane,Kharif,670.8,30.0,66.6,40266.0,53.52,2155220.0
+2020,Tamil Nadu,Groundnut,Kharif,1097.5,27.9,59.3,25100.0,1.93,48337.0
+2020,Madhya Pradesh,Rice,Kharif,883.1,25.4,61.9,61461.0,4.09,251107.0
+2020,Madhya Pradesh,Wheat,Rabi,1226.5,28.8,78.0,108857.0,3.78,411413.0
+2020,Madhya Pradesh,Maize,Rabi,1094.4,25.3,68.4,47055.0,2.94,138115.0
+2020,Madhya Pradesh,Cotton,Kharif,1206.4,26.5,57.7,45888.0,1.84,84379.0
+2020,Madhya Pradesh,Sugarcane,Rabi,1278.7,26.1,55.4,59096.0,77.45,4576804.0
+2020,Madhya Pradesh,Groundnut,Kharif,961.2,26.4,69.3,58196.0,2.1,122229.0
+2020,West Bengal,Rice,Kharif,1520.0,28.6,75.2,63849.0,3.67,234131.0
+2020,West Bengal,Wheat,Rabi,1533.8,26.8,85.8,60645.0,3.64,220768.0
+2020,West Bengal,Maize,Summer,1412.8,29.0,90.7,87146.0,2.85,248552.0
+2020,West Bengal,Cotton,Kharif,1552.8,27.6,71.2,68222.0,1.72,117410.0
+2020,West Bengal,Sugarcane,Rabi,1403.7,29.8,84.3,56505.0,65.16,3681736.0
+2020,West Bengal,Groundnut,Kharif,1638.3,28.0,75.9,62465.0,2.15,134079.0
+2021,Andhra Pradesh,Rice,Kharif,1122.3,27.4,67.7,90563.0,4.31,390116.0
+2021,Andhra Pradesh,Wheat,Rabi,886.6,30.6,65.5,87055.0,2.77,241357.0
+2021,Andhra Pradesh,Maize,Summer,1083.2,28.6,63.7,42693.0,3.27,139459.0
+2021,Andhra Pradesh,Cotton,Kharif,1030.1,26.3,68.2,41427.0,1.98,82028.0
+2021,Andhra Pradesh,Sugarcane,Kharif,766.6,28.5,52.5,75699.0,55.39,4192994.0
+2021,Andhra Pradesh,Groundnut,Kharif,1092.1,26.1,71.1,65217.0,2.06,134309.0
+2021,Telangana,Rice,Kharif,1004.5,28.0,62.2,59235.0,3.73,220783.0
+2021,Telangana,Wheat,Rabi,1034.8,28.3,70.9,74861.0,3.27,244931.0
+2021,Telangana,Maize,Summer,1058.3,29.8,71.8,43181.0,2.9,125265.0
+2021,Telangana,Cotton,Kharif,1006.2,27.1,65.1,51824.0,1.82,94314.0
+2021,Telangana,Sugarcane,Kharif,863.7,29.1,80.5,28074.0,62.82,1763686.0
+2021,Telangana,Groundnut,Kharif,891.2,30.1,71.5,58824.0,2.15,126677.0
+2021,Punjab,Rice,Kharif,771.5,24.4,68.6,85239.0,4.33,369395.0
+2021,Punjab,Wheat,Rabi,642.9,25.1,74.2,83363.0,3.02,252042.0
+2021,Punjab,Maize,Rabi,913.6,27.7,62.4,78699.0,3.68,289286.0
+2021,Punjab,Cotton,Kharif,762.2,22.7,70.2,63647.0,1.99,126540.0
+2021,Punjab,Sugarcane,Rabi,483.6,24.2,57.5,71836.0,58.75,4220685.0
+2021,Punjab,Groundnut,Kharif,827.8,23.9,73.4,70328.0,2.21,155639.0
+2021,Haryana,Rice,Kharif,609.6,22.4,64.5,81550.0,3.23,263620.0
+2021,Haryana,Wheat,Rabi,710.9,25.6,60.9,73084.0,3.82,278958.0
+2021,Haryana,Maize,Rabi,485.2,25.9,57.8,43848.0,2.68,117395.0
+2021,Haryana,Cotton,Kharif,657.1,25.2,68.5,48641.0,2.0,97066.0
+2021,Haryana,Sugarcane,Summer,618.5,24.3,74.4,27953.0,68.18,1905969.0
+2021,Haryana,Groundnut,Kharif,527.9,25.8,49.5,42847.0,2.29,98268.0
+2021,Uttar Pradesh,Rice,Kharif,904.8,28.6,63.0,100722.0,3.54,356549.0
+2021,Uttar Pradesh,Wheat,Rabi,741.5,25.7,51.4,94064.0,3.26,306479.0
+2021,Uttar Pradesh,Maize,Rabi,667.3,28.4,47.3,85467.0,2.68,229075.0
+2021,Uttar Pradesh,Cotton,Kharif,758.2,24.3,70.2,63525.0,2.08,132362.0
+2021,Uttar Pradesh,Sugarcane,Summer,695.3,26.5,61.1,77040.0,57.37,4420033.0
+2021,Uttar Pradesh,Groundnut,Kharif,702.7,27.2,48.6,56189.0,1.82,102318.0
+2021,Maharashtra,Rice,Kharif,879.7,28.6,67.3,98897.0,3.79,375127.0
+2021,Maharashtra,Wheat,Rabi,832.5,26.1,64.8,100902.0,3.61,363792.0
+2021,Maharashtra,Maize,Rabi,1063.1,27.2,84.5,66392.0,2.72,180697.0
+2021,Maharashtra,Cotton,Kharif,1218.7,27.2,71.2,84750.0,1.77,149972.0
+2021,Maharashtra,Sugarcane,Kharif,774.1,26.5,56.4,73639.0,61.0,4491899.0
+2021,Maharashtra,Groundnut,Kharif,1022.1,28.9,64.0,58744.0,2.35,138308.0
+2021,Karnataka,Rice,Kharif,845.8,26.8,69.8,79079.0,3.41,269973.0
+2021,Karnataka,Wheat,Rabi,1071.2,25.9,71.4,88154.0,3.73,328988.0
+2021,Karnataka,Maize,Summer,1162.6,25.1,71.5,76185.0,3.14,239586.0
+2021,Karnataka,Cotton,Kharif,1197.6,28.0,76.4,55712.0,1.97,109513.0
+2021,Karnataka,Sugarcane,Rabi,1449.2,25.8,70.7,55680.0,77.38,4308551.0
+2021,Karnataka,Groundnut,Kharif,1334.1,28.2,57.3,52963.0,2.19,116129.0
+2021,Tamil Nadu,Rice,Kharif,951.0,27.9,79.2,81402.0,4.09,333174.0
+2021,Tamil Nadu,Wheat,Rabi,857.2,26.2,52.7,84744.0,3.04,257604.0
+2021,Tamil Nadu,Maize,Summer,1046.4,29.0,65.3,62356.0,3.08,192166.0
+2021,Tamil Nadu,Cotton,Kharif,1291.4,27.0,71.4,51751.0,2.01,104181.0
+2021,Tamil Nadu,Sugarcane,Rabi,1170.3,28.4,66.9,82379.0,58.62,4828742.0
+2021,Tamil Nadu,Groundnut,Kharif,1072.2,26.3,73.4,21202.0,1.98,42066.0
+2021,Madhya Pradesh,Rice,Kharif,1166.3,26.7,72.9,102957.0,4.15,426777.0
+2021,Madhya Pradesh,Wheat,Rabi,1069.4,27.6,63.1,93554.0,3.34,312668.0
+2021,Madhya Pradesh,Maize,Summer,1126.3,28.3,75.0,57125.0,3.29,187842.0
+2021,Madhya Pradesh,Cotton,Kharif,1092.3,25.6,62.1,72946.0,1.67,122181.0
+2021,Madhya Pradesh,Sugarcane,Kharif,1067.4,25.7,73.7,43751.0,64.81,2835421.0
+2021,Madhya Pradesh,Groundnut,Kharif,1536.7,25.7,89.0,37026.0,2.23,82669.0
+2021,West Bengal,Rice,Kharif,1853.8,26.5,77.3,81112.0,4.39,356260.0
+2021,West Bengal,Wheat,Rabi,1476.0,26.7,65.6,76054.0,3.02,229478.0
+2021,West Bengal,Maize,Rabi,1716.7,27.8,87.9,85510.0,3.34,285561.0
+2021,West Bengal,Cotton,Kharif,1736.5,27.2,71.9,53430.0,2.09,111725.0
+2021,West Bengal,Sugarcane,Summer,1725.5,27.0,80.1,48665.0,77.73,3782768.0
+2021,West Bengal,Groundnut,Kharif,1508.3,26.1,78.4,50360.0,2.14,107772.0
+2022,Andhra Pradesh,Rice,Kharif,1029.4,27.7,69.4,55343.0,3.65,201811.0
+2022,Andhra Pradesh,Wheat,Rabi,964.4,28.4,63.0,117930.0,3.25,383722.0
+2022,Andhra Pradesh,Maize,Rabi,825.6,28.3,67.3,82653.0,2.79,230189.0
+2022,Andhra Pradesh,Cotton,Kharif,976.1,27.6,66.4,64188.0,1.74,111434.0
+2022,Andhra Pradesh,Sugarcane,Rabi,909.9,26.9,64.8,44800.0,59.03,2644735.0
+2022,Andhra Pradesh,Groundnut,Kharif,1084.1,28.8,64.8,58335.0,1.93,112808.0
+2022,Telangana,Rice,Kharif,986.4,30.7,59.8,72356.0,3.07,221950.0
+2022,Telangana,Wheat,Rabi,889.7,29.8,59.8,66534.0,3.05,202604.0
+2022,Telangana,Maize,Rabi,717.8,30.5,60.3,46025.0,3.08,141662.0
+2022,Telangana,Cotton,Kharif,935.3,31.0,64.0,46832.0,1.62,76056.0
+2022,Telangana,Sugarcane,Rabi,876.7,29.3,57.9,54731.0,63.01,3448859.0
+2022,Telangana,Groundnut,Kharif,1022.5,29.8,67.4,62704.0,2.16,135331.0
+2022,Punjab,Rice,Kharif,701.7,25.4,55.6,121050.0,3.68,445308.0
+2022,Punjab,Wheat,Rabi,548.4,23.0,55.6,98334.0,3.42,335841.0
+2022,Punjab,Maize,Summer,740.6,24.7,54.8,101089.0,2.88,291449.0
+2022,Punjab,Cotton,Kharif,579.6,28.1,64.9,63505.0,1.86,118383.0
+2022,Punjab,Sugarcane,Rabi,862.9,24.3,61.7,69422.0,77.02,5346783.0
+2022,Punjab,Groundnut,Kharif,525.6,27.2,65.7,95293.0,1.86,177175.0
+2022,Haryana,Rice,Kharif,603.1,25.0,57.2,52323.0,3.5,183183.0
+2022,Haryana,Wheat,Rabi,651.6,22.8,72.8,86515.0,3.61,312255.0
+2022,Haryana,Maize,Summer,471.6,25.3,57.7,82172.0,3.15,258840.0
+2022,Haryana,Cotton,Kharif,609.5,24.7,67.7,55725.0,1.85,103089.0
+2022,Haryana,Sugarcane,Summer,764.0,24.0,60.9,54100.0,80.41,4350037.0
+2022,Haryana,Groundnut,Kharif,550.9,22.8,45.8,33658.0,1.85,62324.0
+2022,Uttar Pradesh,Rice,Kharif,834.7,28.8,68.7,116296.0,3.68,427899.0
+2022,Uttar Pradesh,Wheat,Rabi,720.9,25.2,67.9,94670.0,3.59,339926.0
+2022,Uttar Pradesh,Maize,Kharif,930.3,26.9,57.1,80627.0,3.21,259100.0
+2022,Uttar Pradesh,Cotton,Kharif,710.4,26.1,52.2,84446.0,1.88,159082.0
+2022,Uttar Pradesh,Sugarcane,Summer,1090.0,30.7,62.6,67385.0,74.59,5026007.0
+2022,Uttar Pradesh,Groundnut,Kharif,1037.3,28.1,66.7,50181.0,2.14,107461.0
+2022,Maharashtra,Rice,Kharif,1095.5,25.6,66.7,102184.0,4.11,420188.0
+2022,Maharashtra,Wheat,Rabi,997.0,27.4,77.4,98100.0,2.84,278710.0
+2022,Maharashtra,Maize,Rabi,910.1,25.6,75.5,107810.0,2.82,303604.0
+2022,Maharashtra,Cotton,Kharif,1097.2,28.0,52.2,57309.0,1.71,98208.0
+2022,Maharashtra,Sugarcane,Rabi,983.5,26.6,62.7,53481.0,70.79,3786095.0
+2022,Maharashtra,Groundnut,Kharif,1183.8,26.3,69.6,59135.0,2.08,122856.0
+2022,Karnataka,Rice,Kharif,1161.3,28.4,72.4,69905.0,3.91,273320.0
+2022,Karnataka,Wheat,Rabi,1041.2,26.0,68.7,86330.0,3.46,298584.0
+2022,Karnataka,Maize,Rabi,953.4,25.9,58.1,58559.0,3.03,177564.0
+2022,Karnataka,Cotton,Kharif,1006.8,28.5,57.4,44708.0,1.85,82681.0
+2022,Karnataka,Sugarcane,Rabi,1426.5,25.4,71.7,46069.0,66.2,3049557.0
+2022,Karnataka,Groundnut,Kharif,1344.1,27.2,77.5,60234.0,2.27,136859.0
+2022,Tamil Nadu,Rice,Kharif,859.2,27.6,55.6,77746.0,4.0,310864.0
+2022,Tamil Nadu,Wheat,Rabi,1086.3,27.9,71.3,81262.0,3.06,248733.0
+2022,Tamil Nadu,Maize,Rabi,778.6,26.4,70.5,57083.0,2.68,152998.0
+2022,Tamil Nadu,Cotton,Kharif,855.7,29.5,60.1,43453.0,1.72,74803.0
+2022,Tamil Nadu,Sugarcane,Summer,1095.5,26.9,70.1,51216.0,73.52,3765183.0
+2022,Tamil Nadu,Groundnut,Kharif,969.4,29.4,62.1,44195.0,2.03,89789.0
+2022,Madhya Pradesh,Rice,Kharif,1093.2,23.9,65.2,87442.0,3.32,290441.0
+2022,Madhya Pradesh,Wheat,Rabi,1155.9,23.7,60.9,101354.0,2.93,297121.0
+2022,Madhya Pradesh,Maize,Summer,996.6,26.6,56.6,80274.0,3.13,251416.0
+2022,Madhya Pradesh,Cotton,Kharif,1112.0,29.1,74.2,64360.0,1.98,127511.0
+2022,Madhya Pradesh,Sugarcane,Kharif,608.6,28.0,60.5,49302.0,64.12,3161159.0
+2022,Madhya Pradesh,Groundnut,Kharif,973.8,25.6,63.9,37078.0,1.96,72635.0
+2022,West Bengal,Rice,Kharif,1685.7,28.5,79.9,89045.0,3.54,315017.0
+2022,West Bengal,Wheat,Rabi,1523.1,29.5,71.5,97506.0,2.98,290548.0
+2022,West Bengal,Maize,Rabi,1856.7,27.3,92.8,55056.0,2.84,156097.0
+2022,West Bengal,Cotton,Kharif,1581.1,26.3,82.6,63020.0,1.98,124544.0
+2022,West Bengal,Sugarcane,Summer,1702.2,27.0,76.4,33376.0,73.13,2440766.0
+2022,West Bengal,Groundnut,Kharif,1456.6,26.3,70.2,46562.0,2.1,97858.0
+2023,Andhra Pradesh,Rice,Kharif,778.5,29.4,65.0,81372.0,3.44,279531.0
+2023,Andhra Pradesh,Wheat,Rabi,915.2,32.1,53.6,102297.0,2.86,292311.0
+2023,Andhra Pradesh,Maize,Kharif,1167.3,26.8,85.5,85739.0,3.34,285974.0
+2023,Andhra Pradesh,Cotton,Kharif,883.3,26.2,66.7,47910.0,2.11,100932.0
+2023,Andhra Pradesh,Sugarcane,Kharif,847.0,28.9,62.2,70023.0,56.41,3949705.0
+2023,Andhra Pradesh,Groundnut,Kharif,1129.5,26.8,78.5,38448.0,1.97,75865.0
+2023,Telangana,Rice,Kharif,755.2,27.4,78.4,79322.0,3.21,254923.0
+2023,Telangana,Wheat,Rabi,522.9,30.5,37.4,90034.0,3.14,282829.0
+2023,Telangana,Maize,Summer,851.5,32.0,66.3,57481.0,2.61,150053.0
+2023,Telangana,Cotton,Kharif,1124.2,30.3,67.7,50400.0,1.9,96007.0
+2023,Telangana,Sugarcane,Summer,911.2,28.3,59.1,34213.0,55.93,1913673.0
+2023,Telangana,Groundnut,Kharif,869.0,29.4,66.0,63812.0,1.76,112226.0
+2023,Punjab,Rice,Kharif,632.5,22.4,67.4,92565.0,3.2,296091.0
+2023,Punjab,Wheat,Rabi,789.1,25.4,62.6,83287.0,3.37,280565.0
+2023,Punjab,Maize,Rabi,813.5,26.7,63.5,68386.0,3.65,249336.0
+2023,Punjab,Cotton,Kharif,776.5,26.2,72.9,66375.0,1.92,127759.0
+2023,Punjab,Sugarcane,Summer,736.5,27.1,70.5,52766.0,66.9,3530076.0
+2023,Punjab,Groundnut,Kharif,742.1,27.7,64.4,60841.0,2.32,140988.0
+2023,Haryana,Rice,Kharif,553.5,26.5,60.0,71994.0,3.86,277696.0
+2023,Haryana,Wheat,Rabi,612.5,27.2,58.7,67045.0,3.76,252269.0
+2023,Haryana,Maize,Kharif,688.2,23.6,58.5,78336.0,3.14,246090.0
+2023,Haryana,Cotton,Kharif,610.0,24.1,73.8,65143.0,2.12,138237.0
+2023,Haryana,Sugarcane,Rabi,560.0,26.0,57.1,48974.0,74.43,3645112.0
+2023,Haryana,Groundnut,Kharif,697.1,25.4,58.5,59299.0,2.52,149632.0
+2023,Uttar Pradesh,Rice,Kharif,707.2,27.7,65.2,113979.0,4.05,462182.0
+2023,Uttar Pradesh,Wheat,Rabi,997.7,27.6,71.6,97624.0,3.87,377506.0
+2023,Uttar Pradesh,Maize,Rabi,669.1,26.7,53.5,81518.0,3.09,252249.0
+2023,Uttar Pradesh,Cotton,Kharif,983.1,27.7,62.3,64954.0,1.82,118297.0
+2023,Uttar Pradesh,Sugarcane,Summer,1147.6,25.0,73.0,75143.0,75.91,5704195.0
+2023,Uttar Pradesh,Groundnut,Kharif,862.1,24.8,60.6,53103.0,2.18,115608.0
+2023,Maharashtra,Rice,Kharif,1185.1,27.0,70.7,125020.0,3.43,429177.0
+2023,Maharashtra,Wheat,Rabi,1031.0,27.0,62.2,77670.0,3.03,235144.0
+2023,Maharashtra,Maize,Kharif,1007.0,25.2,75.9,103632.0,3.11,322185.0
+2023,Maharashtra,Cotton,Kharif,1124.6,25.1,70.9,73846.0,2.09,154468.0
+2023,Maharashtra,Sugarcane,Rabi,1063.4,26.6,73.1,57160.0,66.22,3785107.0
+2023,Maharashtra,Groundnut,Kharif,948.4,27.2,75.6,56017.0,2.11,118078.0
+2023,Karnataka,Rice,Kharif,1170.8,26.3,72.6,79394.0,3.4,269950.0
+2023,Karnataka,Wheat,Rabi,1289.8,23.4,70.5,75472.0,3.58,270516.0
+2023,Karnataka,Maize,Kharif,1585.7,27.1,77.7,81550.0,3.16,257355.0
+2023,Karnataka,Cotton,Kharif,1482.8,28.9,81.1,47617.0,2.12,100734.0
+2023,Karnataka,Sugarcane,Summer,1159.5,25.5,69.9,81948.0,64.68,5300364.0
+2023,Karnataka,Groundnut,Kharif,1342.9,24.7,80.7,63238.0,1.97,124375.0
+2023,Tamil Nadu,Rice,Kharif,1049.1,30.0,74.5,79957.0,3.95,315895.0
+2023,Tamil Nadu,Wheat,Rabi,1192.9,26.5,69.2,77409.0,3.48,269586.0
+2023,Tamil Nadu,Maize,Rabi,1078.1,30.0,65.0,77003.0,2.9,223437.0
+2023,Tamil Nadu,Cotton,Kharif,869.8,27.4,65.1,45716.0,2.0,91511.0
+2023,Tamil Nadu,Sugarcane,Kharif,1224.8,31.0,79.5,51968.0,67.71,3518584.0
+2023,Tamil Nadu,Groundnut,Kharif,1011.1,28.1,61.0,63322.0,2.05,129908.0
+2023,Madhya Pradesh,Rice,Kharif,1114.8,25.1,74.5,122185.0,3.74,456923.0
+2023,Madhya Pradesh,Wheat,Rabi,1562.8,25.4,80.6,92371.0,3.28,302914.0
+2023,Madhya Pradesh,Maize,Kharif,1288.2,25.3,70.0,60363.0,3.67,221768.0
+2023,Madhya Pradesh,Cotton,Kharif,1190.4,26.6,78.9,79006.0,1.69,133341.0
+2023,Madhya Pradesh,Sugarcane,Summer,1354.5,27.1,77.2,65308.0,77.15,5038328.0
+2023,Madhya Pradesh,Groundnut,Kharif,1275.7,25.7,74.9,44267.0,2.27,100292.0
+2023,West Bengal,Rice,Kharif,1667.2,31.2,86.8,100530.0,3.11,313028.0
+2023,West Bengal,Wheat,Rabi,1814.6,28.8,80.2,86351.0,3.22,277631.0
+2023,West Bengal,Maize,Kharif,1352.4,28.3,75.1,63822.0,3.13,199696.0
+2023,West Bengal,Cotton,Kharif,1482.8,29.9,71.7,54453.0,1.92,104552.0
+2023,West Bengal,Sugarcane,Kharif,1760.3,28.4,75.5,66590.0,70.24,4677272.0
+2023,West Bengal,Groundnut,Kharif,1561.2,32.1,84.0,53371.0,1.93,103013.0
+2024,Andhra Pradesh,Rice,Kharif,990.6,27.8,54.4,90117.0,3.34,300917.0
+2024,Andhra Pradesh,Wheat,Rabi,1265.4,29.1,75.3,80056.0,3.77,301718.0
+2024,Andhra Pradesh,Maize,Rabi,858.2,25.8,72.3,76031.0,3.4,258438.0
+2024,Andhra Pradesh,Cotton,Kharif,1436.2,31.0,78.0,75870.0,2.1,158968.0
+2024,Andhra Pradesh,Sugarcane,Kharif,1218.4,27.4,69.8,58340.0,69.83,4073577.0
+2024,Andhra Pradesh,Groundnut,Kharif,1085.6,30.5,71.4,40170.0,1.81,72859.0
+2024,Telangana,Rice,Kharif,923.9,28.6,66.4,84036.0,3.41,286185.0
+2024,Telangana,Wheat,Rabi,987.0,29.1,62.7,66539.0,3.08,204725.0
+2024,Telangana,Maize,Rabi,1078.3,28.3,74.1,67376.0,3.02,203518.0
+2024,Telangana,Cotton,Kharif,802.1,27.4,63.3,91989.0,1.82,167518.0
+2024,Telangana,Sugarcane,Kharif,1204.4,29.2,65.0,61374.0,68.33,4193531.0
+2024,Telangana,Groundnut,Kharif,1101.1,28.5,65.3,50775.0,2.08,105865.0
+2024,Punjab,Rice,Kharif,751.3,27.8,62.7,89397.0,4.29,383298.0
+2024,Punjab,Wheat,Rabi,534.1,24.4,77.3,88745.0,2.84,252433.0
+2024,Punjab,Maize,Summer,715.6,26.6,64.6,55840.0,3.34,186317.0
+2024,Punjab,Cotton,Kharif,837.4,24.3,70.8,64156.0,2.22,142205.0
+2024,Punjab,Sugarcane,Kharif,770.9,26.5,66.4,43361.0,77.51,3360987.0
+2024,Punjab,Groundnut,Kharif,867.5,25.2,72.9,51100.0,2.39,122260.0
+2024,Haryana,Rice,Kharif,724.0,29.2,67.8,71291.0,3.56,253495.0
+2024,Haryana,Wheat,Rabi,581.7,25.4,59.7,85095.0,3.43,292238.0
+2024,Haryana,Maize,Kharif,559.5,27.0,61.0,54327.0,2.73,148345.0
+2024,Haryana,Cotton,Kharif,680.7,22.7,64.7,59005.0,1.99,117354.0
+2024,Haryana,Sugarcane,Kharif,648.2,22.7,71.8,29058.0,64.15,1863951.0
+2024,Haryana,Groundnut,Kharif,706.8,24.9,66.3,54482.0,2.06,112034.0
+2024,Uttar Pradesh,Rice,Kharif,1030.2,29.7,72.0,72523.0,3.9,283082.0
+2024,Uttar Pradesh,Wheat,Rabi,1013.7,30.1,61.5,71028.0,3.58,254024.0
+2024,Uttar Pradesh,Maize,Kharif,743.7,24.6,53.9,95112.0,2.84,270072.0
+2024,Uttar Pradesh,Cotton,Kharif,864.4,26.9,61.6,56455.0,2.07,117133.0
+2024,Uttar Pradesh,Sugarcane,Summer,1029.2,27.2,83.5,51344.0,64.76,3325181.0
+2024,Uttar Pradesh,Groundnut,Kharif,589.0,25.5,66.7,76544.0,1.92,147193.0
+2024,Maharashtra,Rice,Kharif,1186.4,27.3,72.5,94337.0,4.05,382458.0
+2024,Maharashtra,Wheat,Rabi,875.7,25.1,59.4,95963.0,3.05,293077.0
+2024,Maharashtra,Maize,Kharif,923.9,29.3,65.0,74495.0,2.79,207687.0
+2024,Maharashtra,Cotton,Kharif,1005.5,27.8,54.5,81179.0,1.75,141952.0
+2024,Maharashtra,Sugarcane,Rabi,1237.0,28.3,77.8,50409.0,71.48,3603373.0
+2024,Maharashtra,Groundnut,Kharif,1122.7,27.8,72.4,50380.0,2.05,103523.0
+2024,Karnataka,Rice,Kharif,1322.4,26.2,75.9,95207.0,4.13,393014.0
+2024,Karnataka,Wheat,Rabi,877.3,25.5,72.4,89647.0,3.32,298030.0
+2024,Karnataka,Maize,Rabi,1198.4,24.9,65.0,54509.0,3.04,165691.0
+2024,Karnataka,Cotton,Kharif,1409.3,26.8,81.3,57528.0,1.98,113790.0
+2024,Karnataka,Sugarcane,Summer,991.6,25.8,65.7,60402.0,63.56,3839277.0
+2024,Karnataka,Groundnut,Kharif,1050.0,25.9,68.3,51352.0,1.9,97383.0
+2024,Tamil Nadu,Rice,Kharif,1130.8,26.6,66.1,77168.0,3.56,274865.0
+2024,Tamil Nadu,Wheat,Rabi,765.6,25.4,59.1,73658.0,3.51,258514.0
+2024,Tamil Nadu,Maize,Rabi,812.4,28.5,70.8,69350.0,2.59,179521.0
+2024,Tamil Nadu,Cotton,Kharif,1145.3,27.5,64.3,56685.0,1.9,107509.0
+2024,Tamil Nadu,Sugarcane,Kharif,1137.4,26.8,75.6,64793.0,61.45,3981242.0
+2024,Tamil Nadu,Groundnut,Kharif,899.6,26.1,54.9,56277.0,1.99,111717.0
+2024,Madhya Pradesh,Rice,Kharif,1298.7,26.9,54.3,84844.0,4.1,348120.0
+2024,Madhya Pradesh,Wheat,Rabi,1346.3,25.6,73.6,94858.0,3.5,331558.0
+2024,Madhya Pradesh,Maize,Summer,1357.9,26.8,64.3,69752.0,3.66,255398.0
+2024,Madhya Pradesh,Cotton,Kharif,1390.9,29.1,57.7,71691.0,1.73,123783.0
+2024,Madhya Pradesh,Sugarcane,Kharif,1175.8,25.7,51.5,74583.0,68.31,5094536.0
+2024,Madhya Pradesh,Groundnut,Kharif,1380.5,26.3,76.5,45546.0,2.58,117687.0
+2024,West Bengal,Rice,Kharif,1711.7,27.6,74.4,92809.0,3.59,332893.0
+2024,West Bengal,Wheat,Rabi,1591.5,29.4,86.2,65694.0,3.31,217765.0
+2024,West Bengal,Maize,Summer,1658.2,27.2,84.1,80533.0,3.15,253411.0
+2024,West Bengal,Cotton,Kharif,1742.6,27.7,89.9,72356.0,2.04,147617.0
+2024,West Bengal,Sugarcane,Summer,1994.1,25.9,84.0,72683.0,73.87,5368900.0
+2024,West Bengal,Groundnut,Kharif,1489.6,28.0,67.8,60535.0,2.2,133406.0
