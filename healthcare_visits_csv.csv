@@ -1,0 +1,1001 @@
+Visit Date,Patient ID,Age,Gender,Department,Visit Type,Diagnosis Group,Treatment,Length of Stay (Days),Outcome,Bill Amount (INR)
+2025-10-16,SYN-P0001,47,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Follow-up advised,3498.09
+2025-10-02,SYN-P0002,36,Male,Pediatrics,Inpatient,Fever (sample group),Vaccination visit,5,Discharged,15216.53
+2025-06-07,SYN-P0003,54,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,557.78
+2025-04-20,SYN-P0004,83,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,4435.81
+2025-06-07,SYN-P0005,73,Female,Neurology,Inpatient,Neurological review (sample group),Neurological assessment,5,Follow-up advised,14437.04
+2025-06-29,SYN-P0006,62,Female,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,1350.08
+2025-06-30,SYN-P0007,23,Male,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Discharged,3540.38
+2025-04-30,SYN-P0008,31,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,7,Discharged,16320.51
+2025-04-25,SYN-P0009,19,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Discharged,2374.57
+2025-12-12,SYN-P0010,14,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Discharged,1839.69
+2025-08-09,SYN-P0011,38,Male,Orthopedics,Outpatient,Back pain (sample group),Consultation,1,Discharged,5406.22
+2025-10-15,SYN-P0012,43,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,3468.23
+2025-02-19,SYN-P0013,55,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Discharged,2312.75
+2025-04-28,SYN-P0014,17,Male,Dermatology,Inpatient,Rash (sample group),Topical care review,8,Discharged,19621.69
+2025-07-22,SYN-P0015,41,Female,Pediatrics,Outpatient,Routine child check (sample group),Consultation,1,Discharged,5022.37
+2025-02-13,SYN-P0016,41,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,4188.45
+2025-11-21,SYN-P0017,26,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Discharged,3425.75
+2025-05-30,SYN-P0018,1,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Discharged,2088.72
+2025-04-08,SYN-P0019,19,Female,ENT,Outpatient,Throat complaint (sample group),Consultation,1,Follow-up advised,4134.52
+2025-06-04,SYN-P0020,77,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,3912.12
+2025-01-16,SYN-P0021,61,Female,Pediatrics,Inpatient,Fever (sample group),Vaccination visit,1,Referred,2837.09
+2025-12-16,SYN-P0022,63,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Referred,2332.53
+2025-09-20,SYN-P0023,50,Male,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Follow-up advised,6408.32
+2025-04-28,SYN-P0024,42,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,2972.62
+2025-03-06,SYN-P0025,59,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Discharged,2103.0
+2025-10-09,SYN-P0026,44,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,1454.63
+2025-06-01,SYN-P0027,43,Female,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,3267.92
+2025-06-29,SYN-P0028,47,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,2896.02
+2025-11-20,SYN-P0029,61,Male,General Medicine,Inpatient,Fever (sample group),Medication review,3,Discharged,8013.94
+2025-09-05,SYN-P0030,6,Male,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Discharged,3958.56
+2025-01-10,SYN-P0031,25,Other/Not recorded,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,843.6
+2025-12-01,SYN-P0032,89,Other/Not recorded,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,5329.55
+2025-07-04,SYN-P0033,57,Other/Not recorded,General Medicine,Outpatient,Fever (sample group),Laboratory review,1,Discharged,6234.45
+2025-07-17,SYN-P0034,63,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Discharged,4719.92
+2025-02-09,SYN-P0035,72,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,2350.71
+2025-11-18,SYN-P0036,26,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,1,Follow-up advised,7126.05
+2025-06-07,SYN-P0037,52,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Follow-up advised,2736.6
+2025-05-03,SYN-P0038,42,Male,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,4400.1
+2025-01-19,SYN-P0039,52,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,4288.53
+2025-07-11,SYN-P0040,48,Male,General Medicine,Outpatient,Fever (sample group),Medication review,1,Discharged,3084.1
+2025-09-30,SYN-P0041,78,Female,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Discharged,4133.16
+2025-09-07,SYN-P0042,56,Female,Neurology,Inpatient,Headache (sample group),Neurological assessment,5,Follow-up advised,14807.58
+2025-11-28,SYN-P0043,28,Male,Neurology,Inpatient,Migraine review (sample group),Follow-up review,4,Discharged,13717.5
+2025-10-13,SYN-P0044,37,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,3776.89
+2025-06-20,SYN-P0045,31,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,4320.98
+2025-05-19,SYN-P0046,51,Male,Pediatrics,Inpatient,Routine child check (sample group),Growth check,5,Follow-up advised,11921.58
+2025-06-27,SYN-P0047,73,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Referred,1150.77
+2025-07-11,SYN-P0048,19,Female,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,2218.27
+2025-02-26,SYN-P0049,53,Female,General Medicine,Inpatient,Diabetes review (sample group),Medication review,5,Follow-up advised,13163.05
+2025-10-31,SYN-P0050,42,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,3223.71
+2025-08-30,SYN-P0051,41,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,3741.1
+2025-09-09,SYN-P0052,1,Female,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,4,Discharged,10915.42
+2025-06-14,SYN-P0053,20,Female,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,4111.96
+2025-11-18,SYN-P0054,80,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,835.64
+2025-04-21,SYN-P0055,31,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,3845.11
+2025-03-13,SYN-P0056,75,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,1,Follow-up advised,3687.79
+2025-08-30,SYN-P0057,95,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,1078.62
+2025-07-28,SYN-P0058,3,Female,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Follow-up advised,4327.32
+2025-05-25,SYN-P0059,46,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,3519.55
+2025-11-19,SYN-P0060,42,Female,Orthopedics,Inpatient,Joint pain (sample group),X-ray review,8,Discharged,21879.4
+2025-12-16,SYN-P0061,51,Female,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Discharged,2734.68
+2025-09-12,SYN-P0062,44,Male,Neurology,Outpatient,Headache (sample group),Follow-up review,1,Follow-up advised,7769.78
+2025-04-08,SYN-P0063,19,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Follow-up advised,1877.39
+2025-10-19,SYN-P0064,50,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,4221.8
+2025-08-04,SYN-P0065,62,Male,ENT,Inpatient,Sinus complaint (sample group),Ear examination,3,Discharged,7618.71
+2025-09-04,SYN-P0066,58,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,1,Referred,7101.61
+2025-12-23,SYN-P0067,63,Male,Orthopedics,Inpatient,Fracture review (sample group),Consultation,6,Follow-up advised,14449.33
+2025-11-06,SYN-P0068,16,Male,Pediatrics,Outpatient,Routine child check (sample group),Vaccination visit,0,Follow-up advised,912.72
+2025-11-10,SYN-P0069,54,Female,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Follow-up advised,959.46
+2025-03-23,SYN-P0070,1,Male,General Medicine,Inpatient,Fever (sample group),Medication review,3,Discharged,9418.2
+2025-06-26,SYN-P0071,31,Female,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Referred,5035.9
+2025-08-03,SYN-P0072,64,Male,Dermatology,Inpatient,Acne review (sample group),Topical care review,5,Discharged,12538.58
+2025-01-11,SYN-P0073,24,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,3280.21
+2025-05-17,SYN-P0074,1,Female,General Medicine,Inpatient,Fever (sample group),Consultation,4,Discharged,11967.73
+2025-05-20,SYN-P0075,66,Female,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Follow-up advised,799.52
+2025-07-05,SYN-P0076,41,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Follow-up advised,1573.71
+2025-09-07,SYN-P0077,47,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Follow-up advised,3239.86
+2025-10-24,SYN-P0078,25,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Follow-up advised,2514.6
+2025-05-09,SYN-P0079,74,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,1,Discharged,5327.36
+2025-09-16,SYN-P0080,89,Other/Not recorded,Neurology,Inpatient,Migraine review (sample group),Follow-up review,1,Discharged,5734.72
+2025-07-30,SYN-P0081,44,Female,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Follow-up advised,3761.85
+2025-06-15,SYN-P0082,44,Male,Neurology,Inpatient,Migraine review (sample group),Neurological assessment,7,Follow-up advised,18425.19
+2025-09-06,SYN-P0083,33,Male,ENT,Inpatient,Sinus complaint (sample group),Ear examination,4,Discharged,10657.86
+2025-04-12,SYN-P0084,37,Female,ENT,Inpatient,Throat complaint (sample group),Throat examination,3,Referred,10756.9
+2025-05-17,SYN-P0085,10,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Discharged,880.27
+2025-10-18,SYN-P0086,1,Male,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Follow-up advised,4679.3
+2025-06-05,SYN-P0087,54,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Follow-up advised,4280.17
+2025-01-08,SYN-P0088,36,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,1,Referred,4804.63
+2025-05-20,SYN-P0089,42,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,4913.41
+2025-08-31,SYN-P0090,50,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Follow-up advised,2438.71
+2025-10-21,SYN-P0091,53,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,7,Referred,20636.95
+2025-01-01,SYN-P0092,38,Male,Pediatrics,Outpatient,Routine child check (sample group),Vaccination visit,0,Discharged,2375.43
+2025-05-16,SYN-P0093,31,Other/Not recorded,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Follow-up advised,899.33
+2025-11-12,SYN-P0094,33,Male,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Follow-up advised,1223.38
+2025-11-03,SYN-P0095,14,Female,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Follow-up advised,5394.76
+2025-07-07,SYN-P0096,51,Male,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,6223.78
+2025-06-27,SYN-P0097,67,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,4535.01
+2025-09-16,SYN-P0098,62,Male,Dermatology,Inpatient,Rash (sample group),Topical care review,8,Follow-up advised,20589.26
+2025-07-05,SYN-P0099,27,Male,Orthopedics,Inpatient,Joint pain (sample group),Consultation,3,Discharged,9333.28
+2025-10-18,SYN-P0100,18,Other/Not recorded,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,1780.47
+2025-06-08,SYN-P0101,34,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Follow-up advised,4308.48
+2025-04-13,SYN-P0102,74,Female,ENT,Inpatient,Ear complaint (sample group),Throat examination,3,Discharged,7741.17
+2025-09-23,SYN-P0103,27,Female,Dermatology,Inpatient,Skin irritation (sample group),Consultation,1,Discharged,6107.58
+2025-04-28,SYN-P0104,63,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Referred,4033.42
+2025-01-03,SYN-P0105,50,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,3243.34
+2025-11-22,SYN-P0106,24,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,2256.85
+2025-04-21,SYN-P0107,23,Male,Neurology,Inpatient,Migraine review (sample group),Neurological assessment,7,Discharged,19985.58
+2025-08-18,SYN-P0108,1,Female,Neurology,Outpatient,Headache (sample group),Neurological assessment,1,Discharged,6796.09
+2025-07-23,SYN-P0109,42,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,1,Follow-up advised,5473.68
+2025-10-07,SYN-P0110,26,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,2586.05
+2025-03-25,SYN-P0111,70,Male,General Medicine,Inpatient,Respiratory symptoms (sample group),Consultation,8,Discharged,19744.38
+2025-11-10,SYN-P0112,30,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Follow-up advised,4082.06
+2025-12-15,SYN-P0113,69,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,2161.74
+2025-12-28,SYN-P0114,21,Female,Cardiology,Inpatient,Cardiac review (sample group),ECG review,3,Discharged,9688.32
+2025-11-10,SYN-P0115,46,Female,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,5537.99
+2025-09-06,SYN-P0116,1,Male,General Medicine,Inpatient,Fever (sample group),Medication review,2,Discharged,6448.19
+2025-11-29,SYN-P0117,66,Female,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,3730.58
+2025-12-18,SYN-P0118,1,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Follow-up advised,572.47
+2025-04-08,SYN-P0119,69,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,2633.11
+2025-12-20,SYN-P0120,61,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,1,Discharged,3697.09
+2025-09-22,SYN-P0121,29,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,1211.75
+2025-01-08,SYN-P0122,41,Female,ENT,Inpatient,Sinus complaint (sample group),Throat examination,5,Discharged,13079.62
+2025-08-23,SYN-P0123,28,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Discharged,1043.53
+2025-08-22,SYN-P0124,22,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,2,Discharged,9058.47
+2025-03-26,SYN-P0125,60,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,4013.84
+2025-02-26,SYN-P0126,78,Male,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Referred,2699.6
+2025-11-18,SYN-P0127,35,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,1,Discharged,6602.72
+2025-11-04,SYN-P0128,38,Male,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,2,Discharged,7357.12
+2025-09-13,SYN-P0129,10,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,3220.14
+2025-02-23,SYN-P0130,55,Male,Cardiology,Inpatient,Cardiac review (sample group),Consultation,7,Discharged,18682.83
+2025-06-18,SYN-P0131,15,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,849.28
+2025-08-03,SYN-P0132,35,Female,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,2089.4
+2025-11-01,SYN-P0133,14,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Follow-up advised,4137.85
+2025-08-05,SYN-P0134,15,Female,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Discharged,4284.62
+2025-01-04,SYN-P0135,63,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,1158.37
+2025-08-08,SYN-P0136,64,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,1835.5
+2025-04-17,SYN-P0137,45,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,1915.19
+2025-10-07,SYN-P0138,75,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Discharged,5943.16
+2025-03-16,SYN-P0139,49,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Follow-up advised,4456.32
+2025-06-06,SYN-P0140,60,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Discharged,3619.48
+2025-02-02,SYN-P0141,32,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,1,Discharged,6859.63
+2025-10-17,SYN-P0142,11,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,6,Referred,13832.35
+2025-11-20,SYN-P0143,57,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Follow-up advised,1119.39
+2025-09-19,SYN-P0144,82,Female,Dermatology,Outpatient,Acne review (sample group),Consultation,0,Discharged,3549.89
+2025-08-03,SYN-P0145,1,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,1,Discharged,4740.67
+2025-12-09,SYN-P0146,61,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,4718.11
+2025-05-23,SYN-P0147,11,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,2950.87
+2025-09-29,SYN-P0148,53,Female,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,4355.07
+2025-05-19,SYN-P0149,43,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,0,Follow-up advised,866.17
+2025-01-31,SYN-P0150,20,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,1,Discharged,6269.89
+2025-09-29,SYN-P0151,32,Female,ENT,Outpatient,Sinus complaint (sample group),Consultation,1,Discharged,5757.52
+2025-04-10,SYN-P0152,65,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,1795.37
+2025-04-28,SYN-P0153,25,Female,Neurology,Inpatient,Neurological review (sample group),Follow-up review,5,Discharged,15520.5
+2025-12-11,SYN-P0154,41,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,3985.54
+2025-08-02,SYN-P0155,53,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Follow-up advised,4162.88
+2025-02-09,SYN-P0156,78,Male,Neurology,Inpatient,Neurological review (sample group),Neurological assessment,1,Discharged,7556.14
+2025-10-27,SYN-P0157,19,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,2108.94
+2025-06-02,SYN-P0158,47,Other/Not recorded,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,2097.24
+2025-01-27,SYN-P0159,52,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Discharged,3839.62
+2025-08-23,SYN-P0160,25,Female,ENT,Outpatient,Sinus complaint (sample group),Consultation,0,Referred,3390.15
+2025-04-05,SYN-P0161,43,Male,Dermatology,Outpatient,Rash (sample group),Skin assessment,1,Follow-up advised,3751.78
+2025-08-24,SYN-P0162,44,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,3972.74
+2025-11-27,SYN-P0163,23,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Growth check,8,Referred,22399.29
+2025-12-30,SYN-P0164,44,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,1789.21
+2025-12-03,SYN-P0165,19,Female,Pediatrics,Inpatient,Routine child check (sample group),Growth check,7,Discharged,19996.64
+2025-12-17,SYN-P0166,13,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,1739.09
+2025-08-07,SYN-P0167,18,Male,ENT,Outpatient,Sinus complaint (sample group),Consultation,0,Discharged,2784.49
+2025-06-13,SYN-P0168,44,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Follow-up advised,4338.42
+2025-04-04,SYN-P0169,35,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Discharged,1537.81
+2025-10-08,SYN-P0170,53,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Follow-up advised,3115.75
+2025-02-12,SYN-P0171,7,Male,Cardiology,Inpatient,Hypertension (sample group),Consultation,7,Follow-up advised,18818.95
+2025-10-27,SYN-P0172,42,Female,ENT,Outpatient,Throat complaint (sample group),Ear examination,0,Discharged,3782.19
+2025-04-23,SYN-P0173,47,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,4467.22
+2025-04-13,SYN-P0174,41,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Follow-up advised,3714.25
+2025-10-29,SYN-P0175,28,Male,Orthopedics,Inpatient,Fracture review (sample group),X-ray review,2,Follow-up advised,5272.01
+2025-05-01,SYN-P0176,25,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,4369.95
+2025-05-05,SYN-P0177,61,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Follow-up advised,2227.4
+2025-12-19,SYN-P0178,22,Male,Cardiology,Inpatient,Hypertension (sample group),ECG review,5,Discharged,17287.24
+2025-02-22,SYN-P0179,37,Female,Neurology,Inpatient,Migraine review (sample group),Neurological assessment,5,Discharged,13530.15
+2025-02-09,SYN-P0180,11,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,4552.59
+2025-08-27,SYN-P0181,44,Other/Not recorded,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,3646.32
+2025-11-02,SYN-P0182,15,Female,General Medicine,Inpatient,Diabetes review (sample group),Medication review,2,Discharged,5201.93
+2025-02-07,SYN-P0183,64,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Discharged,1053.54
+2025-02-28,SYN-P0184,55,Male,ENT,Outpatient,Sinus complaint (sample group),Consultation,0,Discharged,2588.03
+2025-01-02,SYN-P0185,68,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Follow-up advised,1652.36
+2025-06-17,SYN-P0186,28,Female,General Medicine,Inpatient,Respiratory symptoms (sample group),Medication review,2,Follow-up advised,7101.42
+2025-05-22,SYN-P0187,27,Female,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,5594.79
+2025-01-25,SYN-P0188,24,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,4,Follow-up advised,9972.23
+2025-06-16,SYN-P0189,14,Female,Pediatrics,Inpatient,Fever (sample group),Growth check,2,Discharged,5909.67
+2025-01-21,SYN-P0190,20,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Follow-up advised,3558.65
+2025-12-05,SYN-P0191,58,Female,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,4468.77
+2025-07-01,SYN-P0192,32,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,0,Discharged,615.5
+2025-08-04,SYN-P0193,38,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Follow-up advised,4674.42
+2025-09-14,SYN-P0194,79,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,728.32
+2025-09-14,SYN-P0195,40,Female,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Discharged,3345.59
+2025-11-26,SYN-P0196,9,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,2674.17
+2025-04-18,SYN-P0197,20,Male,Dermatology,Outpatient,Rash (sample group),Consultation,1,Discharged,5511.75
+2025-05-05,SYN-P0198,42,Male,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,4219.51
+2025-09-01,SYN-P0199,63,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Follow-up advised,992.73
+2025-12-14,SYN-P0200,1,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,5996.2
+2025-09-13,SYN-P0201,42,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Discharged,4851.91
+2025-08-22,SYN-P0202,69,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,6410.98
+2025-07-24,SYN-P0203,54,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,1,Referred,8381.89
+2025-10-14,SYN-P0204,95,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,1,Discharged,3707.54
+2025-01-09,SYN-P0205,29,Female,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Follow-up advised,3386.11
+2025-09-11,SYN-P0206,14,Other/Not recorded,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,1,Referred,3534.79
+2025-07-18,SYN-P0207,1,Other/Not recorded,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Follow-up advised,2953.84
+2025-05-08,SYN-P0208,58,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,2049.67
+2025-04-07,SYN-P0209,56,Female,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,1,Discharged,3504.94
+2025-03-28,SYN-P0210,27,Female,Orthopedics,Inpatient,Back pain (sample group),Consultation,2,Discharged,8543.54
+2025-03-10,SYN-P0211,95,Female,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,1,Discharged,7537.85
+2025-03-08,SYN-P0212,59,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,2463.51
+2025-08-03,SYN-P0213,27,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Follow-up advised,2810.48
+2025-10-22,SYN-P0214,49,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,1412.9
+2025-01-18,SYN-P0215,41,Male,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,4277.85
+2025-03-23,SYN-P0216,43,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Follow-up advised,3736.83
+2025-12-31,SYN-P0217,50,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,0,Follow-up advised,3616.09
+2025-11-30,SYN-P0218,57,Male,Neurology,Inpatient,Headache (sample group),Neurological assessment,2,Discharged,6803.97
+2025-10-22,SYN-P0219,34,Male,ENT,Outpatient,Sinus complaint (sample group),Ear examination,1,Discharged,3501.73
+2025-05-07,SYN-P0220,21,Male,General Medicine,Inpatient,Diabetes review (sample group),Consultation,5,Follow-up advised,11606.22
+2025-03-19,SYN-P0221,29,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,1,Discharged,6780.32
+2025-03-01,SYN-P0222,1,Other/Not recorded,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,2662.01
+2025-05-25,SYN-P0223,39,Male,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,1,Discharged,5435.04
+2025-11-24,SYN-P0224,47,Male,General Medicine,Inpatient,Diabetes review (sample group),Laboratory review,4,Discharged,10426.55
+2025-05-17,SYN-P0225,95,Female,Neurology,Inpatient,Migraine review (sample group),Follow-up review,1,Discharged,6043.46
+2025-12-26,SYN-P0226,37,Female,General Medicine,Inpatient,Fever (sample group),Laboratory review,2,Follow-up advised,6361.36
+2025-09-10,SYN-P0227,73,Other/Not recorded,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Discharged,4001.35
+2025-05-16,SYN-P0228,57,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,1889.52
+2025-06-22,SYN-P0229,1,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,3154.93
+2025-09-14,SYN-P0230,38,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,2145.87
+2025-07-28,SYN-P0231,53,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,2280.17
+2025-04-05,SYN-P0232,43,Male,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Discharged,2638.42
+2025-05-18,SYN-P0233,9,Male,Cardiology,Inpatient,Cardiac review (sample group),ECG review,2,Follow-up advised,10845.39
+2025-04-03,SYN-P0234,65,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Follow-up advised,2693.03
+2025-02-20,SYN-P0235,21,Female,Dermatology,Outpatient,Skin irritation (sample group),Consultation,1,Follow-up advised,5452.08
+2025-10-13,SYN-P0236,34,Male,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Discharged,4032.38
+2025-08-31,SYN-P0237,34,Male,Neurology,Outpatient,Migraine review (sample group),Follow-up review,1,Discharged,8501.09
+2025-06-14,SYN-P0238,11,Male,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,3729.2
+2025-04-01,SYN-P0239,1,Male,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,3435.02
+2025-09-22,SYN-P0240,83,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,3232.05
+2025-08-05,SYN-P0241,31,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,1,Discharged,5578.84
+2025-06-12,SYN-P0242,24,Female,General Medicine,Inpatient,Diabetes review (sample group),Medication review,6,Discharged,14722.8
+2025-11-04,SYN-P0243,27,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,1157.9
+2025-05-04,SYN-P0244,69,Male,ENT,Outpatient,Throat complaint (sample group),Consultation,1,Follow-up advised,3616.3
+2025-02-13,SYN-P0245,75,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,0,Discharged,1627.98
+2025-02-08,SYN-P0246,47,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Follow-up advised,4678.54
+2025-12-31,SYN-P0247,13,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,2231.18
+2025-01-23,SYN-P0248,33,Male,ENT,Outpatient,Throat complaint (sample group),Consultation,0,Follow-up advised,827.92
+2025-05-10,SYN-P0249,59,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,1,Discharged,6453.33
+2025-12-02,SYN-P0250,65,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Growth check,2,Discharged,8427.85
+2025-04-17,SYN-P0251,22,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,3374.14
+2025-04-04,SYN-P0252,22,Male,Orthopedics,Inpatient,Joint pain (sample group),X-ray review,2,Follow-up advised,5603.03
+2025-04-20,SYN-P0253,39,Female,Dermatology,Inpatient,Skin irritation (sample group),Skin assessment,1,Follow-up advised,4108.19
+2025-09-03,SYN-P0254,35,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,1,Discharged,5484.99
+2025-07-04,SYN-P0255,51,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Follow-up advised,2936.93
+2025-06-19,SYN-P0256,1,Female,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Discharged,2676.82
+2025-03-02,SYN-P0257,44,Male,Dermatology,Inpatient,Rash (sample group),Skin assessment,6,Follow-up advised,16655.31
+2025-05-07,SYN-P0258,35,Male,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Discharged,2043.72
+2025-07-09,SYN-P0259,39,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Referred,3761.86
+2025-07-27,SYN-P0260,31,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,1,Discharged,6024.35
+2025-07-05,SYN-P0261,46,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,6432.7
+2025-07-19,SYN-P0262,67,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,1,Discharged,6691.1
+2025-10-12,SYN-P0263,59,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,3149.66
+2025-05-14,SYN-P0264,69,Male,Neurology,Outpatient,Neurological review (sample group),Consultation,1,Discharged,8699.8
+2025-09-22,SYN-P0265,14,Female,Orthopedics,Inpatient,Back pain (sample group),Consultation,7,Discharged,16670.23
+2025-06-01,SYN-P0266,62,Male,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Discharged,994.53
+2025-08-26,SYN-P0267,39,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Follow-up advised,4503.29
+2025-01-27,SYN-P0268,61,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,3423.53
+2025-10-28,SYN-P0269,65,Other/Not recorded,General Medicine,Inpatient,Respiratory symptoms (sample group),Medication review,1,Discharged,3792.33
+2025-01-31,SYN-P0270,44,Male,Pediatrics,Inpatient,Fever (sample group),Consultation,4,Discharged,10032.0
+2025-06-12,SYN-P0271,42,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,1,Follow-up advised,8306.16
+2025-02-24,SYN-P0272,2,Male,General Medicine,Outpatient,Fever (sample group),Consultation,1,Discharged,5220.67
+2025-12-12,SYN-P0273,29,Female,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Referred,2618.25
+2025-11-21,SYN-P0274,2,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,3255.05
+2025-05-14,SYN-P0275,12,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,4116.54
+2025-02-16,SYN-P0276,50,Male,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Follow-up advised,5531.28
+2025-04-30,SYN-P0277,53,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,4672.53
+2025-03-27,SYN-P0278,34,Female,ENT,Outpatient,Ear complaint (sample group),Ear examination,1,Discharged,6880.52
+2025-12-02,SYN-P0279,57,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Referred,6407.64
+2025-08-20,SYN-P0280,21,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,3964.71
+2025-06-03,SYN-P0281,20,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,2343.44
+2025-11-14,SYN-P0282,53,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,2363.65
+2025-12-27,SYN-P0283,73,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,1,Discharged,4683.98
+2025-11-19,SYN-P0284,12,Female,ENT,Inpatient,Ear complaint (sample group),Throat examination,4,Discharged,11135.03
+2025-04-13,SYN-P0285,29,Male,Neurology,Inpatient,Neurological review (sample group),Follow-up review,5,Follow-up advised,17241.26
+2025-05-17,SYN-P0286,11,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,1,Follow-up advised,6053.36
+2025-12-12,SYN-P0287,41,Female,Neurology,Inpatient,Migraine review (sample group),Neurological assessment,4,Discharged,11713.2
+2025-07-18,SYN-P0288,12,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,2690.38
+2025-10-06,SYN-P0289,1,Male,ENT,Outpatient,Throat complaint (sample group),Consultation,0,Follow-up advised,845.6
+2025-12-13,SYN-P0290,45,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,2700.85
+2025-08-10,SYN-P0291,50,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,4,Discharged,10867.29
+2025-08-18,SYN-P0292,29,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Referred,2375.7
+2025-01-10,SYN-P0293,43,Female,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,3997.83
+2025-08-01,SYN-P0294,72,Male,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,3943.02
+2025-01-24,SYN-P0295,49,Female,Pediatrics,Inpatient,Fever (sample group),Consultation,5,Discharged,12958.76
+2025-04-15,SYN-P0296,41,Female,Pediatrics,Inpatient,Routine child check (sample group),Growth check,7,Discharged,19345.73
+2025-10-15,SYN-P0297,70,Male,General Medicine,Inpatient,Diabetes review (sample group),Medication review,2,Discharged,8693.48
+2025-08-05,SYN-P0298,57,Male,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,0,Referred,1755.34
+2025-06-22,SYN-P0299,46,Female,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,4778.51
+2025-11-13,SYN-P0300,62,Male,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,0,Referred,2234.06
+2025-09-04,SYN-P0301,8,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Discharged,4554.13
+2025-10-22,SYN-P0302,28,Male,Pediatrics,Outpatient,Routine child check (sample group),Vaccination visit,0,Discharged,3652.67
+2025-03-05,SYN-P0303,1,Female,Dermatology,Inpatient,Rash (sample group),Consultation,6,Discharged,16385.33
+2025-04-17,SYN-P0304,33,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,3744.07
+2025-03-04,SYN-P0305,11,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,1566.05
+2025-11-08,SYN-P0306,30,Male,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Discharged,1704.5
+2025-09-28,SYN-P0307,25,Male,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,1736.24
+2025-09-11,SYN-P0308,34,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,6492.34
+2025-05-13,SYN-P0309,19,Female,ENT,Outpatient,Ear complaint (sample group),Throat examination,1,Discharged,3261.38
+2025-02-02,SYN-P0310,24,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,3207.32
+2025-11-13,SYN-P0311,34,Female,ENT,Inpatient,Throat complaint (sample group),Ear examination,6,Discharged,18007.93
+2025-03-28,SYN-P0312,54,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,5235.26
+2025-12-11,SYN-P0313,31,Female,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Follow-up advised,3078.91
+2025-08-28,SYN-P0314,3,Female,Cardiology,Inpatient,Chest discomfort (sample group),ECG review,6,Discharged,17128.43
+2025-02-02,SYN-P0315,17,Other/Not recorded,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,0,Discharged,1064.44
+2025-08-12,SYN-P0316,34,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,1,Discharged,6535.3
+2025-09-07,SYN-P0317,77,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Follow-up advised,779.69
+2025-04-05,SYN-P0318,26,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,3778.48
+2025-10-09,SYN-P0319,37,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,5080.17
+2025-09-19,SYN-P0320,29,Female,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,4579.35
+2025-04-16,SYN-P0321,23,Female,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,1053.09
+2025-06-08,SYN-P0322,27,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,1204.22
+2025-10-30,SYN-P0323,51,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,3518.3
+2025-05-22,SYN-P0324,43,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Follow-up advised,2683.74
+2025-06-08,SYN-P0325,1,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,1,Discharged,5570.74
+2025-05-26,SYN-P0326,23,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,1,Discharged,4074.39
+2025-07-05,SYN-P0327,4,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,1,Discharged,4554.48
+2025-06-29,SYN-P0328,26,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Discharged,3953.72
+2025-09-15,SYN-P0329,35,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,2954.88
+2025-06-27,SYN-P0330,67,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Follow-up advised,4704.87
+2025-06-13,SYN-P0331,10,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,4668.77
+2025-08-12,SYN-P0332,45,Female,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,1506.51
+2025-07-07,SYN-P0333,54,Female,ENT,Outpatient,Throat complaint (sample group),Ear examination,0,Discharged,1934.38
+2025-03-10,SYN-P0334,53,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,1,Discharged,2779.43
+2025-08-21,SYN-P0335,48,Male,Neurology,Inpatient,Neurological review (sample group),Follow-up review,3,Discharged,8963.96
+2025-07-28,SYN-P0336,60,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,1,Discharged,4879.99
+2025-02-13,SYN-P0337,1,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,1,Discharged,7941.34
+2025-10-24,SYN-P0338,55,Female,General Medicine,Inpatient,Fever (sample group),Consultation,4,Follow-up advised,13775.21
+2025-11-04,SYN-P0339,41,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,4050.71
+2025-02-26,SYN-P0340,50,Female,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Discharged,5691.02
+2025-04-30,SYN-P0341,13,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,3980.18
+2025-09-13,SYN-P0342,43,Female,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,4831.41
+2025-06-04,SYN-P0343,24,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,3027.93
+2025-07-01,SYN-P0344,19,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Referred,1605.9
+2025-01-31,SYN-P0345,30,Female,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,4,Discharged,12595.5
+2025-12-04,SYN-P0346,52,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Referred,3388.29
+2025-06-15,SYN-P0347,95,Female,Neurology,Inpatient,Migraine review (sample group),Neurological assessment,3,Discharged,9571.81
+2025-10-22,SYN-P0348,40,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Follow-up advised,4170.48
+2025-01-11,SYN-P0349,10,Female,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Discharged,4587.69
+2025-02-08,SYN-P0350,34,Male,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,1904.23
+2025-12-11,SYN-P0351,25,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Discharged,6422.93
+2025-05-09,SYN-P0352,10,Male,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,1447.58
+2025-08-13,SYN-P0353,73,Male,General Medicine,Outpatient,Fever (sample group),Consultation,1,Discharged,4384.58
+2025-09-14,SYN-P0354,44,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,4290.03
+2025-05-15,SYN-P0355,29,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,3220.88
+2025-02-07,SYN-P0356,54,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Discharged,2685.77
+2025-01-09,SYN-P0357,46,Female,Dermatology,Outpatient,Skin irritation (sample group),Consultation,1,Discharged,4434.62
+2025-05-02,SYN-P0358,47,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Referred,1260.16
+2025-09-05,SYN-P0359,52,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,5711.1
+2025-12-27,SYN-P0360,42,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,3600.11
+2025-03-13,SYN-P0361,61,Female,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,1,Follow-up advised,4497.74
+2025-05-10,SYN-P0362,36,Female,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Discharged,5373.0
+2025-11-15,SYN-P0363,19,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Discharged,2994.17
+2025-10-25,SYN-P0364,75,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,2350.01
+2025-05-03,SYN-P0365,12,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,1,Discharged,7184.59
+2025-10-30,SYN-P0366,8,Female,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Discharged,3833.31
+2025-12-30,SYN-P0367,56,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,1,Follow-up advised,3627.6
+2025-02-24,SYN-P0368,42,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Discharged,6314.91
+2025-11-27,SYN-P0369,36,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Follow-up advised,6006.44
+2025-08-16,SYN-P0370,54,Other/Not recorded,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,3581.71
+2025-08-27,SYN-P0371,43,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,2820.15
+2025-01-20,SYN-P0372,64,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Discharged,2825.7
+2025-10-29,SYN-P0373,48,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,3,Discharged,10985.07
+2025-02-13,SYN-P0374,13,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Follow-up advised,3460.21
+2025-03-10,SYN-P0375,11,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,3207.85
+2025-06-05,SYN-P0376,58,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,1,Discharged,7158.19
+2025-08-16,SYN-P0377,58,Female,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,6,Follow-up advised,19077.59
+2025-01-04,SYN-P0378,12,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Follow-up advised,3987.17
+2025-03-05,SYN-P0379,95,Male,Dermatology,Inpatient,Rash (sample group),Topical care review,6,Discharged,13765.0
+2025-11-11,SYN-P0380,73,Female,Pediatrics,Inpatient,Fever (sample group),Vaccination visit,8,Discharged,19818.7
+2025-07-19,SYN-P0381,73,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,5,Follow-up advised,12540.15
+2025-06-09,SYN-P0382,78,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Discharged,4231.38
+2025-01-14,SYN-P0383,41,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,916.82
+2025-06-04,SYN-P0384,33,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,6139.37
+2025-01-25,SYN-P0385,20,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,2828.04
+2025-12-15,SYN-P0386,16,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Follow-up advised,2006.25
+2025-04-22,SYN-P0387,18,Female,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Follow-up advised,4584.83
+2025-12-28,SYN-P0388,29,Other/Not recorded,ENT,Outpatient,Ear complaint (sample group),Ear examination,1,Follow-up advised,4044.57
+2025-07-07,SYN-P0389,38,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,3614.35
+2025-06-21,SYN-P0390,67,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Discharged,2060.49
+2025-05-23,SYN-P0391,86,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Discharged,2708.08
+2025-11-28,SYN-P0392,72,Female,Dermatology,Outpatient,Rash (sample group),Consultation,0,Follow-up advised,1550.45
+2025-07-11,SYN-P0393,40,Male,Dermatology,Inpatient,Skin irritation (sample group),Skin assessment,2,Discharged,9359.97
+2025-04-09,SYN-P0394,44,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,3544.39
+2025-06-07,SYN-P0395,46,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,4680.16
+2025-03-05,SYN-P0396,34,Female,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Discharged,1815.02
+2025-12-23,SYN-P0397,29,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Follow-up advised,1660.82
+2025-03-22,SYN-P0398,48,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,2320.99
+2025-11-13,SYN-P0399,14,Male,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,2617.78
+2025-04-08,SYN-P0400,51,Male,Orthopedics,Inpatient,Fracture review (sample group),Physiotherapy,2,Discharged,8428.74
+2025-06-10,SYN-P0401,62,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,0,Discharged,3149.96
+2025-09-23,SYN-P0402,33,Female,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,3581.36
+2025-01-17,SYN-P0403,45,Male,ENT,Inpatient,Throat complaint (sample group),Ear examination,8,Follow-up advised,20758.48
+2025-01-24,SYN-P0404,29,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,3305.04
+2025-03-08,SYN-P0405,43,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,1,Discharged,5251.15
+2025-08-12,SYN-P0406,56,Male,General Medicine,Inpatient,Fever (sample group),Consultation,1,Discharged,5045.8
+2025-10-06,SYN-P0407,43,Male,General Medicine,Outpatient,Fever (sample group),Medication review,1,Discharged,6578.02
+2025-01-21,SYN-P0408,43,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,6061.74
+2025-09-30,SYN-P0409,21,Male,Orthopedics,Inpatient,Joint pain (sample group),Physiotherapy,4,Discharged,12672.88
+2025-06-17,SYN-P0410,12,Male,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,6,Discharged,19659.12
+2025-01-20,SYN-P0411,76,Female,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,2776.94
+2025-02-09,SYN-P0412,49,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,4297.27
+2025-12-06,SYN-P0413,66,Male,General Medicine,Inpatient,Diabetes review (sample group),Consultation,3,Discharged,10792.92
+2025-04-06,SYN-P0414,53,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,1,Discharged,4476.17
+2025-07-20,SYN-P0415,47,Female,Cardiology,Outpatient,Hypertension (sample group),Consultation,1,Follow-up advised,5458.65
+2025-07-11,SYN-P0416,1,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,1,Discharged,5960.75
+2025-10-30,SYN-P0417,46,Male,Pediatrics,Inpatient,Fever (sample group),Consultation,2,Discharged,6385.27
+2025-01-24,SYN-P0418,67,Male,Dermatology,Inpatient,Rash (sample group),Consultation,6,Discharged,15762.69
+2025-01-26,SYN-P0419,13,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Follow-up advised,6270.41
+2025-12-08,SYN-P0420,45,Female,Dermatology,Outpatient,Acne review (sample group),Consultation,1,Discharged,2836.51
+2025-03-20,SYN-P0421,22,Male,Cardiology,Outpatient,Cardiac review (sample group),Consultation,1,Discharged,4434.13
+2025-03-05,SYN-P0422,41,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,2861.17
+2025-05-31,SYN-P0423,69,Male,Cardiology,Inpatient,Cardiac review (sample group),Lifestyle counselling,5,Follow-up advised,15882.09
+2025-08-19,SYN-P0424,48,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,3244.21
+2025-12-10,SYN-P0425,53,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,1,Discharged,3961.49
+2025-08-17,SYN-P0426,8,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Follow-up advised,6145.51
+2025-05-23,SYN-P0427,1,Male,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,1,Discharged,4475.28
+2025-09-21,SYN-P0428,18,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Referred,3830.0
+2025-01-06,SYN-P0429,58,Other/Not recorded,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Follow-up advised,3904.93
+2025-12-20,SYN-P0430,42,Male,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Follow-up advised,2914.53
+2025-05-18,SYN-P0431,42,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,2740.22
+2025-11-05,SYN-P0432,57,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Follow-up advised,1121.02
+2025-10-12,SYN-P0433,11,Female,Orthopedics,Inpatient,Joint pain (sample group),Physiotherapy,8,Discharged,19890.99
+2025-09-28,SYN-P0434,63,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,1,Discharged,7664.9
+2025-07-28,SYN-P0435,22,Male,Orthopedics,Outpatient,Fracture review (sample group),Consultation,1,Discharged,6927.06
+2025-08-29,SYN-P0436,35,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,1,Follow-up advised,5518.93
+2025-07-06,SYN-P0437,56,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Discharged,6918.92
+2025-06-10,SYN-P0438,33,Female,General Medicine,Inpatient,Diabetes review (sample group),Medication review,6,Discharged,15744.33
+2025-05-24,SYN-P0439,66,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Discharged,4929.05
+2025-07-15,SYN-P0440,17,Female,General Medicine,Outpatient,Fever (sample group),Medication review,1,Discharged,3816.65
+2025-12-21,SYN-P0441,58,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,4594.41
+2025-03-09,SYN-P0442,28,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,6052.74
+2025-02-27,SYN-P0443,65,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Follow-up advised,3320.47
+2025-09-28,SYN-P0444,83,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,2475.97
+2025-03-21,SYN-P0445,20,Other/Not recorded,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,3496.41
+2025-06-14,SYN-P0446,38,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,2,Discharged,5107.6
+2025-06-17,SYN-P0447,31,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Follow-up advised,5910.84
+2025-10-23,SYN-P0448,19,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,4888.17
+2025-07-10,SYN-P0449,27,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,1,Discharged,3891.14
+2025-02-20,SYN-P0450,1,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Follow-up advised,2444.82
+2025-10-27,SYN-P0451,63,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Follow-up advised,3661.62
+2025-06-23,SYN-P0452,26,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,1,Discharged,3994.17
+2025-08-22,SYN-P0453,13,Female,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Follow-up advised,2944.94
+2025-06-04,SYN-P0454,31,Female,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,1,Discharged,8388.34
+2025-02-04,SYN-P0455,63,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Follow-up advised,1723.41
+2025-03-08,SYN-P0456,38,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,2735.91
+2025-01-02,SYN-P0457,61,Other/Not recorded,General Medicine,Outpatient,Diabetes review (sample group),Medication review,1,Discharged,3887.12
+2025-07-13,SYN-P0458,11,Female,ENT,Outpatient,Sinus complaint (sample group),Consultation,0,Discharged,4181.96
+2025-08-27,SYN-P0459,13,Male,General Medicine,Inpatient,Respiratory symptoms (sample group),Laboratory review,2,Discharged,7250.21
+2025-06-08,SYN-P0460,56,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Referred,4921.2
+2025-06-01,SYN-P0461,1,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,3463.23
+2025-12-30,SYN-P0462,72,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,3557.0
+2025-10-02,SYN-P0463,32,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Follow-up advised,4865.11
+2025-05-04,SYN-P0464,30,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Follow-up advised,2481.94
+2025-05-10,SYN-P0465,45,Male,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,1,Discharged,3540.56
+2025-11-12,SYN-P0466,1,Male,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,2950.67
+2025-08-13,SYN-P0467,68,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Follow-up advised,3409.48
+2025-01-21,SYN-P0468,32,Female,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,6346.98
+2025-06-08,SYN-P0469,45,Female,Neurology,Outpatient,Headache (sample group),Consultation,0,Follow-up advised,4475.92
+2025-06-29,SYN-P0470,63,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Growth check,2,Discharged,8473.8
+2025-06-27,SYN-P0471,57,Female,Orthopedics,Inpatient,Fracture review (sample group),Physiotherapy,2,Discharged,8880.86
+2025-07-01,SYN-P0472,66,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,1079.35
+2025-10-10,SYN-P0473,67,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,5573.75
+2025-11-15,SYN-P0474,44,Male,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,2229.61
+2025-04-22,SYN-P0475,36,Male,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Follow-up advised,2143.35
+2025-07-19,SYN-P0476,37,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,1301.02
+2025-09-17,SYN-P0477,75,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,0,Discharged,3837.79
+2025-02-15,SYN-P0478,51,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,2435.82
+2025-03-12,SYN-P0479,50,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,3130.51
+2025-05-15,SYN-P0480,44,Female,Cardiology,Inpatient,Chest discomfort (sample group),Lifestyle counselling,6,Discharged,18187.14
+2025-07-14,SYN-P0481,13,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,6,Discharged,17492.41
+2025-07-08,SYN-P0482,57,Female,General Medicine,Inpatient,Fever (sample group),Medication review,8,Discharged,18190.45
+2025-02-12,SYN-P0483,13,Male,Pediatrics,Outpatient,Routine child check (sample group),Vaccination visit,0,Discharged,2521.68
+2025-07-17,SYN-P0484,67,Male,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,1,Follow-up advised,6982.16
+2025-10-16,SYN-P0485,29,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,1,Referred,6772.32
+2025-12-27,SYN-P0486,39,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,2723.73
+2025-02-07,SYN-P0487,35,Female,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,1342.06
+2025-04-19,SYN-P0488,79,Male,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Discharged,3076.84
+2025-01-11,SYN-P0489,55,Male,Dermatology,Outpatient,Rash (sample group),Consultation,1,Discharged,4563.63
+2025-03-11,SYN-P0490,21,Other/Not recorded,General Medicine,Inpatient,Diabetes review (sample group),Medication review,7,Discharged,18527.28
+2025-11-17,SYN-P0491,34,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,5545.95
+2025-04-15,SYN-P0492,34,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,3308.29
+2025-07-05,SYN-P0493,73,Female,ENT,Inpatient,Ear complaint (sample group),Throat examination,5,Discharged,12376.22
+2025-12-29,SYN-P0494,50,Female,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,3338.29
+2025-05-28,SYN-P0495,60,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Discharged,3839.02
+2025-05-01,SYN-P0496,33,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,4129.29
+2025-05-10,SYN-P0497,21,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,1,Discharged,3251.3
+2025-11-09,SYN-P0498,57,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,4798.83
+2025-08-13,SYN-P0499,53,Other/Not recorded,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,5363.13
+2025-05-19,SYN-P0500,39,Male,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,3045.8
+2025-12-31,SYN-P0501,63,Male,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,4450.1
+2025-08-17,SYN-P0502,46,Female,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,1426.32
+2025-07-05,SYN-P0503,50,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,5040.55
+2025-06-01,SYN-P0504,54,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,1,Follow-up advised,4198.9
+2025-06-13,SYN-P0505,63,Male,Orthopedics,Inpatient,Joint pain (sample group),Consultation,7,Discharged,16975.94
+2025-09-15,SYN-P0506,1,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Referred,5608.83
+2025-07-26,SYN-P0507,49,Female,Pediatrics,Inpatient,Fever (sample group),Consultation,8,Follow-up advised,18590.19
+2025-02-06,SYN-P0508,25,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Referred,3971.78
+2025-12-03,SYN-P0509,23,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,1,Discharged,3618.35
+2025-11-05,SYN-P0510,2,Female,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Follow-up advised,5666.88
+2025-08-28,SYN-P0511,37,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,6,Discharged,18442.25
+2025-05-08,SYN-P0512,20,Female,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,3362.14
+2025-12-13,SYN-P0513,49,Female,Dermatology,Inpatient,Rash (sample group),Consultation,1,Discharged,4027.79
+2025-02-25,SYN-P0514,29,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Follow-up advised,6892.8
+2025-10-11,SYN-P0515,59,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Follow-up advised,5065.0
+2025-03-06,SYN-P0516,70,Female,Pediatrics,Outpatient,Routine child check (sample group),Vaccination visit,0,Discharged,3206.6
+2025-03-21,SYN-P0517,87,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,3738.21
+2025-07-12,SYN-P0518,82,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,1,Follow-up advised,5092.2
+2025-11-15,SYN-P0519,30,Male,General Medicine,Inpatient,Respiratory symptoms (sample group),Laboratory review,5,Discharged,14542.95
+2025-01-08,SYN-P0520,60,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,4332.91
+2025-11-14,SYN-P0521,35,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,1,Discharged,4247.38
+2025-09-15,SYN-P0522,32,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,1,Follow-up advised,5025.15
+2025-10-22,SYN-P0523,33,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,1635.77
+2025-09-13,SYN-P0524,39,Female,ENT,Inpatient,Ear complaint (sample group),Ear examination,3,Follow-up advised,11289.16
+2025-02-17,SYN-P0525,82,Female,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Follow-up advised,5503.66
+2025-04-23,SYN-P0526,83,Male,Orthopedics,Inpatient,Back pain (sample group),Physiotherapy,4,Discharged,10407.85
+2025-07-13,SYN-P0527,71,Female,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,1,Discharged,5787.93
+2025-12-14,SYN-P0528,63,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,4221.16
+2025-06-24,SYN-P0529,88,Other/Not recorded,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,616.38
+2025-05-24,SYN-P0530,40,Female,ENT,Inpatient,Ear complaint (sample group),Throat examination,2,Discharged,8492.04
+2025-07-12,SYN-P0531,49,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,4864.89
+2025-02-14,SYN-P0532,7,Female,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Follow-up advised,2134.39
+2025-01-06,SYN-P0533,12,Male,Pediatrics,Inpatient,Fever (sample group),Growth check,4,Discharged,12281.78
+2025-07-08,SYN-P0534,54,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,973.16
+2025-10-03,SYN-P0535,52,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,1,Discharged,6992.38
+2025-06-24,SYN-P0536,56,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Follow-up advised,1355.45
+2025-08-01,SYN-P0537,1,Female,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Discharged,3296.54
+2025-02-20,SYN-P0538,20,Female,General Medicine,Inpatient,Diabetes review (sample group),Medication review,5,Discharged,14980.3
+2025-06-25,SYN-P0539,55,Female,General Medicine,Inpatient,Diabetes review (sample group),Consultation,5,Follow-up advised,14025.22
+2025-02-08,SYN-P0540,46,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Discharged,5799.22
+2025-03-04,SYN-P0541,55,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,6413.92
+2025-08-13,SYN-P0542,59,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,4638.4
+2025-09-23,SYN-P0543,69,Male,ENT,Outpatient,Sinus complaint (sample group),Ear examination,1,Discharged,6039.56
+2025-09-04,SYN-P0544,39,Female,Pediatrics,Inpatient,Fever (sample group),Growth check,3,Follow-up advised,10003.6
+2025-02-10,SYN-P0545,33,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,3911.95
+2025-09-14,SYN-P0546,21,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Follow-up advised,1286.02
+2025-06-23,SYN-P0547,1,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,0,Discharged,4730.49
+2025-09-30,SYN-P0548,48,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Follow-up advised,3564.61
+2025-05-05,SYN-P0549,71,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,4752.11
+2025-08-18,SYN-P0550,8,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,7,Discharged,18123.2
+2025-11-23,SYN-P0551,49,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,4155.06
+2025-12-11,SYN-P0552,37,Male,Neurology,Inpatient,Neurological review (sample group),Consultation,2,Discharged,6535.99
+2025-05-16,SYN-P0553,55,Male,Dermatology,Inpatient,Rash (sample group),Topical care review,5,Discharged,14362.84
+2025-09-06,SYN-P0554,38,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Growth check,4,Follow-up advised,11341.5
+2025-09-08,SYN-P0555,36,Female,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Follow-up advised,2413.49
+2025-08-03,SYN-P0556,50,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,3448.34
+2025-11-07,SYN-P0557,53,Male,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Discharged,6168.74
+2025-10-02,SYN-P0558,37,Male,ENT,Inpatient,Ear complaint (sample group),Throat examination,6,Discharged,16513.68
+2025-07-17,SYN-P0559,47,Female,General Medicine,Outpatient,Fever (sample group),Consultation,1,Discharged,6328.55
+2025-07-01,SYN-P0560,12,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,1,Follow-up advised,5136.4
+2025-09-30,SYN-P0561,37,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,1,Discharged,6913.75
+2025-04-26,SYN-P0562,29,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,1829.72
+2025-06-10,SYN-P0563,87,Male,Orthopedics,Inpatient,Back pain (sample group),Consultation,5,Discharged,15989.48
+2025-06-06,SYN-P0564,59,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Referred,3596.26
+2025-08-30,SYN-P0565,1,Female,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,0,Follow-up advised,2502.24
+2025-01-14,SYN-P0566,60,Female,ENT,Inpatient,Throat complaint (sample group),Consultation,7,Discharged,19582.09
+2025-07-08,SYN-P0567,95,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Growth check,3,Follow-up advised,10772.66
+2025-01-07,SYN-P0568,18,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,2031.37
+2025-04-22,SYN-P0569,32,Female,Neurology,Inpatient,Neurological review (sample group),Neurological assessment,4,Discharged,13526.96
+2025-01-24,SYN-P0570,45,Male,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Follow-up advised,4377.88
+2025-06-21,SYN-P0571,55,Male,Orthopedics,Inpatient,Fracture review (sample group),Physiotherapy,1,Discharged,3471.44
+2025-04-08,SYN-P0572,32,Male,Orthopedics,Inpatient,Fracture review (sample group),X-ray review,1,Discharged,6595.94
+2025-10-02,SYN-P0573,72,Female,Orthopedics,Inpatient,Back pain (sample group),Physiotherapy,5,Follow-up advised,12764.96
+2025-11-01,SYN-P0574,1,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Follow-up advised,5054.39
+2025-06-17,SYN-P0575,31,Male,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,1287.92
+2025-01-03,SYN-P0576,44,Male,Pediatrics,Inpatient,Routine child check (sample group),Consultation,5,Discharged,12006.78
+2025-11-11,SYN-P0577,52,Other/Not recorded,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,3206.26
+2025-08-29,SYN-P0578,27,Female,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,1,Discharged,4569.26
+2025-05-06,SYN-P0579,65,Male,General Medicine,Outpatient,Fever (sample group),Consultation,1,Follow-up advised,6366.18
+2025-01-30,SYN-P0580,8,Male,Neurology,Inpatient,Neurological review (sample group),Follow-up review,2,Discharged,9307.21
+2025-03-05,SYN-P0581,83,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,6,Discharged,16488.36
+2025-05-22,SYN-P0582,27,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,2805.32
+2025-02-27,SYN-P0583,1,Female,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,1,Discharged,4164.05
+2025-06-13,SYN-P0584,45,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Follow-up advised,4368.59
+2025-10-09,SYN-P0585,53,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,1783.83
+2025-10-18,SYN-P0586,57,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Discharged,1299.75
+2025-02-19,SYN-P0587,75,Male,Dermatology,Inpatient,Skin irritation (sample group),Topical care review,7,Discharged,20334.99
+2025-07-15,SYN-P0588,42,Female,Cardiology,Inpatient,Hypertension (sample group),ECG review,7,Discharged,20157.64
+2025-09-08,SYN-P0589,56,Female,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Discharged,2807.54
+2025-01-10,SYN-P0590,45,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,2454.16
+2025-10-18,SYN-P0591,27,Male,Dermatology,Outpatient,Rash (sample group),Topical care review,1,Discharged,4405.26
+2025-07-13,SYN-P0592,1,Male,Orthopedics,Inpatient,Back pain (sample group),Consultation,5,Follow-up advised,13892.92
+2025-04-19,SYN-P0593,52,Male,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,3283.45
+2025-09-26,SYN-P0594,62,Female,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,2521.88
+2025-08-14,SYN-P0595,80,Female,Pediatrics,Inpatient,Respiratory symptoms (sample group),Consultation,2,Follow-up advised,8851.98
+2025-07-09,SYN-P0596,38,Male,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,2781.6
+2025-11-02,SYN-P0597,51,Male,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Discharged,2355.14
+2025-05-07,SYN-P0598,57,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,2702.22
+2025-05-07,SYN-P0599,41,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Discharged,7128.03
+2025-07-18,SYN-P0600,46,Female,Dermatology,Inpatient,Acne review (sample group),Topical care review,4,Discharged,10610.74
+2025-01-06,SYN-P0601,12,Female,General Medicine,Inpatient,Fever (sample group),Laboratory review,3,Discharged,11369.26
+2025-02-08,SYN-P0602,63,Male,Cardiology,Inpatient,Cardiac review (sample group),ECG review,7,Discharged,20796.09
+2025-01-09,SYN-P0603,64,Female,Orthopedics,Inpatient,Fracture review (sample group),Consultation,5,Follow-up advised,15866.5
+2025-12-29,SYN-P0604,33,Male,Dermatology,Inpatient,Skin irritation (sample group),Topical care review,7,Discharged,18200.45
+2025-08-08,SYN-P0605,64,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,3154.56
+2025-09-16,SYN-P0606,1,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,1,Discharged,6667.54
+2025-02-26,SYN-P0607,33,Female,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,4,Discharged,12466.02
+2025-10-20,SYN-P0608,61,Female,Pediatrics,Inpatient,Fever (sample group),Consultation,2,Discharged,7926.62
+2025-04-11,SYN-P0609,22,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,0,Discharged,3762.23
+2025-07-02,SYN-P0610,37,Female,General Medicine,Inpatient,Fever (sample group),Medication review,3,Follow-up advised,11472.72
+2025-07-18,SYN-P0611,59,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,1,Discharged,7475.42
+2025-09-04,SYN-P0612,33,Female,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Follow-up advised,1349.04
+2025-04-21,SYN-P0613,37,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,2208.55
+2025-02-24,SYN-P0614,51,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,1501.71
+2025-01-27,SYN-P0615,37,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,3535.63
+2025-07-26,SYN-P0616,44,Female,Orthopedics,Inpatient,Fracture review (sample group),X-ray review,6,Follow-up advised,16121.97
+2025-07-28,SYN-P0617,1,Male,General Medicine,Outpatient,Fever (sample group),Consultation,1,Discharged,7181.75
+2025-11-09,SYN-P0618,36,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,1,Discharged,7063.26
+2025-01-06,SYN-P0619,48,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,2381.14
+2025-11-02,SYN-P0620,33,Male,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4653.3
+2025-03-15,SYN-P0621,3,Male,Neurology,Inpatient,Neurological review (sample group),Follow-up review,2,Discharged,8183.8
+2025-06-30,SYN-P0622,42,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Discharged,4636.68
+2025-02-13,SYN-P0623,46,Male,ENT,Inpatient,Ear complaint (sample group),Throat examination,4,Follow-up advised,11338.29
+2025-10-12,SYN-P0624,37,Female,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,6104.92
+2025-01-11,SYN-P0625,39,Female,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,4575.42
+2025-04-11,SYN-P0626,37,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Follow-up advised,2249.42
+2025-01-27,SYN-P0627,25,Male,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,2787.73
+2025-11-07,SYN-P0628,81,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Discharged,4973.6
+2025-10-13,SYN-P0629,22,Male,ENT,Inpatient,Ear complaint (sample group),Ear examination,8,Discharged,22259.23
+2025-04-27,SYN-P0630,20,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,5634.67
+2025-11-19,SYN-P0631,46,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,1,Follow-up advised,5140.33
+2025-02-05,SYN-P0632,49,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,925.43
+2025-07-09,SYN-P0633,32,Male,ENT,Inpatient,Sinus complaint (sample group),Ear examination,3,Follow-up advised,8217.45
+2025-10-31,SYN-P0634,46,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Follow-up advised,2286.79
+2025-08-07,SYN-P0635,10,Male,Dermatology,Inpatient,Rash (sample group),Consultation,2,Discharged,4915.74
+2025-09-23,SYN-P0636,26,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Follow-up advised,2812.15
+2025-11-15,SYN-P0637,46,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,2399.48
+2025-03-10,SYN-P0638,26,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Discharged,3576.49
+2025-04-05,SYN-P0639,42,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Follow-up advised,4636.92
+2025-09-22,SYN-P0640,36,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,2730.22
+2025-04-20,SYN-P0641,48,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Follow-up advised,941.22
+2025-04-21,SYN-P0642,75,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,1,Follow-up advised,8395.41
+2025-09-07,SYN-P0643,71,Male,Pediatrics,Inpatient,Routine child check (sample group),Consultation,4,Discharged,9459.61
+2025-05-07,SYN-P0644,33,Male,Orthopedics,Inpatient,Back pain (sample group),Physiotherapy,7,Follow-up advised,18199.66
+2025-05-16,SYN-P0645,48,Male,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,1,Discharged,6400.55
+2025-08-27,SYN-P0646,45,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,3004.23
+2025-11-15,SYN-P0647,51,Female,General Medicine,Inpatient,Diabetes review (sample group),Consultation,4,Follow-up advised,12496.55
+2025-06-15,SYN-P0648,57,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,4882.0
+2025-07-27,SYN-P0649,23,Female,General Medicine,Inpatient,Respiratory symptoms (sample group),Laboratory review,3,Referred,8852.92
+2025-03-29,SYN-P0650,17,Female,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,4465.46
+2025-12-10,SYN-P0651,2,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,1,Follow-up advised,4280.24
+2025-12-12,SYN-P0652,45,Male,Orthopedics,Outpatient,Fracture review (sample group),Consultation,1,Discharged,3914.4
+2025-10-20,SYN-P0653,40,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Referred,3748.01
+2025-09-18,SYN-P0654,30,Male,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Discharged,4700.44
+2025-09-22,SYN-P0655,24,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,2759.9
+2025-04-28,SYN-P0656,39,Male,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,1,Follow-up advised,4596.26
+2025-10-11,SYN-P0657,35,Other/Not recorded,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,3868.12
+2025-04-13,SYN-P0658,46,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,518.24
+2025-12-20,SYN-P0659,30,Male,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Follow-up advised,2988.21
+2025-12-17,SYN-P0660,47,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Discharged,2571.4
+2025-11-21,SYN-P0661,19,Female,Cardiology,Inpatient,Chest discomfort (sample group),Lifestyle counselling,2,Discharged,9196.94
+2025-06-04,SYN-P0662,38,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Follow-up advised,1388.24
+2025-11-01,SYN-P0663,48,Other/Not recorded,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Discharged,4600.79
+2025-09-27,SYN-P0664,41,Male,Cardiology,Inpatient,Cardiac review (sample group),ECG review,6,Discharged,16749.03
+2025-08-21,SYN-P0665,66,Female,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,4597.23
+2025-10-18,SYN-P0666,45,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,1916.61
+2025-04-07,SYN-P0667,41,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Consultation,7,Follow-up advised,19179.4
+2025-12-21,SYN-P0668,56,Male,Cardiology,Inpatient,Chest discomfort (sample group),Lifestyle counselling,1,Discharged,7803.19
+2025-04-07,SYN-P0669,26,Male,ENT,Outpatient,Throat complaint (sample group),Ear examination,0,Discharged,3081.55
+2025-09-25,SYN-P0670,67,Male,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Follow-up advised,2508.29
+2025-11-01,SYN-P0671,93,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Referred,1869.25
+2025-04-08,SYN-P0672,40,Other/Not recorded,Cardiology,Inpatient,Hypertension (sample group),Consultation,1,Discharged,8022.95
+2025-01-03,SYN-P0673,45,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,6280.81
+2025-12-15,SYN-P0674,49,Female,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,8,Follow-up advised,18809.89
+2025-09-10,SYN-P0675,78,Female,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Follow-up advised,1906.43
+2025-07-20,SYN-P0676,24,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Referred,5432.85
+2025-01-24,SYN-P0677,30,Female,Orthopedics,Inpatient,Joint pain (sample group),Consultation,1,Discharged,2744.25
+2025-08-16,SYN-P0678,37,Female,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,0,Discharged,4812.34
+2025-05-01,SYN-P0679,19,Male,Pediatrics,Inpatient,Routine child check (sample group),Growth check,5,Discharged,15674.6
+2025-11-29,SYN-P0680,39,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Referred,1660.58
+2025-02-08,SYN-P0681,26,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Discharged,2747.68
+2025-09-18,SYN-P0682,41,Female,ENT,Outpatient,Throat complaint (sample group),Consultation,0,Follow-up advised,609.31
+2025-02-21,SYN-P0683,66,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Follow-up advised,4991.47
+2025-02-20,SYN-P0684,41,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,1712.52
+2025-02-01,SYN-P0685,31,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Follow-up advised,4638.29
+2025-04-26,SYN-P0686,58,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Referred,4060.03
+2025-04-13,SYN-P0687,61,Female,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,924.93
+2025-08-07,SYN-P0688,54,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,3604.06
+2025-10-22,SYN-P0689,69,Male,Pediatrics,Inpatient,Respiratory symptoms (sample group),Vaccination visit,1,Discharged,4282.92
+2025-08-02,SYN-P0690,58,Male,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Discharged,3331.08
+2025-09-25,SYN-P0691,75,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Follow-up advised,1403.85
+2025-12-12,SYN-P0692,21,Female,ENT,Outpatient,Ear complaint (sample group),Consultation,1,Follow-up advised,3764.44
+2025-08-07,SYN-P0693,50,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Follow-up advised,6273.68
+2025-10-31,SYN-P0694,23,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,1,Discharged,6133.2
+2025-07-12,SYN-P0695,76,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,3049.29
+2025-03-28,SYN-P0696,2,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,0,Discharged,2603.64
+2025-09-08,SYN-P0697,27,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,1,Discharged,7450.67
+2025-03-29,SYN-P0698,1,Female,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,531.25
+2025-08-19,SYN-P0699,38,Male,General Medicine,Inpatient,Diabetes review (sample group),Consultation,8,Follow-up advised,21417.3
+2025-08-19,SYN-P0700,1,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,2106.04
+2025-04-05,SYN-P0701,61,Female,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Follow-up advised,2872.2
+2025-02-19,SYN-P0702,31,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Discharged,7045.61
+2025-06-28,SYN-P0703,7,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,4922.2
+2025-05-08,SYN-P0704,42,Female,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,999.66
+2025-06-03,SYN-P0705,55,Female,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,4333.96
+2025-08-16,SYN-P0706,65,Male,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Follow-up advised,1522.55
+2025-04-21,SYN-P0707,75,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Referred,2776.59
+2025-10-13,SYN-P0708,57,Female,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,1,Referred,6236.87
+2025-09-24,SYN-P0709,45,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Follow-up advised,2916.89
+2025-02-15,SYN-P0710,46,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,2963.69
+2025-10-09,SYN-P0711,85,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Discharged,6206.11
+2025-09-14,SYN-P0712,53,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,540.7
+2025-07-22,SYN-P0713,53,Female,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Discharged,4250.07
+2025-12-03,SYN-P0714,16,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Discharged,2420.09
+2025-04-14,SYN-P0715,27,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,1,Discharged,7109.72
+2025-02-24,SYN-P0716,70,Female,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Discharged,3262.09
+2025-05-22,SYN-P0717,58,Female,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,3335.45
+2025-02-19,SYN-P0718,60,Male,General Medicine,Outpatient,Fever (sample group),Consultation,0,Discharged,4506.9
+2025-02-04,SYN-P0719,17,Male,ENT,Outpatient,Sinus complaint (sample group),Consultation,0,Discharged,1011.75
+2025-06-22,SYN-P0720,78,Male,Orthopedics,Inpatient,Back pain (sample group),X-ray review,3,Discharged,8994.27
+2025-08-14,SYN-P0721,37,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,4964.0
+2025-01-12,SYN-P0722,36,Male,Neurology,Outpatient,Migraine review (sample group),Neurological assessment,0,Discharged,2443.73
+2025-05-04,SYN-P0723,44,Female,ENT,Inpatient,Ear complaint (sample group),Ear examination,3,Discharged,8190.3
+2025-01-24,SYN-P0724,48,Male,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Referred,2560.93
+2025-01-25,SYN-P0725,63,Female,Dermatology,Inpatient,Skin irritation (sample group),Consultation,7,Discharged,16609.25
+2025-02-09,SYN-P0726,47,Female,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Discharged,3048.31
+2025-01-24,SYN-P0727,2,Male,Orthopedics,Inpatient,Joint pain (sample group),Physiotherapy,8,Discharged,22331.62
+2025-02-23,SYN-P0728,22,Female,ENT,Outpatient,Ear complaint (sample group),Ear examination,1,Discharged,5538.98
+2025-08-31,SYN-P0729,49,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,1,Discharged,5203.33
+2025-11-05,SYN-P0730,69,Female,General Medicine,Inpatient,Diabetes review (sample group),Laboratory review,8,Discharged,19156.86
+2025-12-26,SYN-P0731,17,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Vaccination visit,0,Follow-up advised,1555.71
+2025-06-19,SYN-P0732,1,Female,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,7,Discharged,20347.83
+2025-08-07,SYN-P0733,32,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,6275.43
+2025-09-29,SYN-P0734,62,Female,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Follow-up advised,1317.5
+2025-11-08,SYN-P0735,11,Female,Pediatrics,Inpatient,Fever (sample group),Consultation,7,Follow-up advised,20138.21
+2025-06-01,SYN-P0736,50,Male,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,3441.32
+2025-06-14,SYN-P0737,1,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,1,Follow-up advised,3189.6
+2025-01-07,SYN-P0738,74,Male,Neurology,Outpatient,Headache (sample group),Consultation,1,Discharged,4234.1
+2025-01-06,SYN-P0739,1,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,946.44
+2025-10-14,SYN-P0740,58,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,3899.38
+2025-08-03,SYN-P0741,13,Male,Dermatology,Outpatient,Rash (sample group),Skin assessment,0,Discharged,1999.69
+2025-09-01,SYN-P0742,16,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Referred,2693.6
+2025-08-16,SYN-P0743,18,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Discharged,2034.43
+2025-10-28,SYN-P0744,84,Male,General Medicine,Outpatient,Fever (sample group),Consultation,1,Follow-up advised,5205.65
+2025-08-16,SYN-P0745,34,Other/Not recorded,Pediatrics,Inpatient,Fever (sample group),Growth check,1,Discharged,5456.67
+2025-01-13,SYN-P0746,36,Male,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Discharged,1390.85
+2025-04-25,SYN-P0747,56,Male,Cardiology,Inpatient,Chest discomfort (sample group),ECG review,7,Discharged,18458.77
+2025-08-16,SYN-P0748,65,Male,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Follow-up advised,2710.37
+2025-07-17,SYN-P0749,9,Male,Cardiology,Inpatient,Cardiac review (sample group),Lifestyle counselling,3,Discharged,10917.55
+2025-07-14,SYN-P0750,1,Male,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Discharged,2017.93
+2025-01-10,SYN-P0751,57,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,1,Discharged,5074.15
+2025-11-08,SYN-P0752,24,Female,Neurology,Outpatient,Neurological review (sample group),Follow-up review,1,Referred,7045.65
+2025-08-31,SYN-P0753,53,Male,Dermatology,Outpatient,Acne review (sample group),Skin assessment,1,Follow-up advised,3684.01
+2025-11-16,SYN-P0754,46,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Follow-up advised,2078.72
+2025-08-09,SYN-P0755,95,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,2549.78
+2025-10-13,SYN-P0756,1,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,6,Discharged,18737.33
+2025-08-13,SYN-P0757,52,Male,Cardiology,Inpatient,Chest discomfort (sample group),ECG review,6,Discharged,17186.82
+2025-02-01,SYN-P0758,95,Female,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,3176.45
+2025-03-14,SYN-P0759,35,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Follow-up advised,3674.24
+2025-06-26,SYN-P0760,75,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,2311.56
+2025-06-11,SYN-P0761,67,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Follow-up advised,1489.5
+2025-12-23,SYN-P0762,26,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Follow-up advised,4127.33
+2025-05-13,SYN-P0763,60,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Follow-up advised,2100.11
+2025-12-23,SYN-P0764,15,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Referred,6127.67
+2025-10-13,SYN-P0765,34,Male,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Follow-up advised,2466.72
+2025-02-26,SYN-P0766,27,Male,General Medicine,Inpatient,Respiratory symptoms (sample group),Medication review,2,Discharged,5935.35
+2025-03-29,SYN-P0767,1,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Follow-up advised,5627.17
+2025-05-20,SYN-P0768,16,Female,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Discharged,4649.85
+2025-07-16,SYN-P0769,60,Male,Cardiology,Outpatient,Chest discomfort (sample group),Consultation,0,Discharged,3898.09
+2025-02-18,SYN-P0770,18,Female,Orthopedics,Outpatient,Back pain (sample group),X-ray review,0,Referred,2571.53
+2025-12-26,SYN-P0771,73,Female,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,4704.81
+2025-03-23,SYN-P0772,31,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Discharged,3726.21
+2025-01-12,SYN-P0773,31,Female,Cardiology,Inpatient,Cardiac review (sample group),Consultation,1,Follow-up advised,6425.91
+2025-11-25,SYN-P0774,82,Other/Not recorded,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,1,Referred,8607.35
+2025-03-22,SYN-P0775,32,Male,Cardiology,Inpatient,Cardiac review (sample group),Consultation,3,Discharged,11425.34
+2025-05-21,SYN-P0776,34,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,1,Discharged,4982.35
+2025-01-26,SYN-P0777,95,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Discharged,4526.03
+2025-08-25,SYN-P0778,81,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,3945.04
+2025-08-19,SYN-P0779,60,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,1099.21
+2025-01-27,SYN-P0780,1,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,2775.69
+2025-08-30,SYN-P0781,24,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Follow-up advised,1359.56
+2025-05-12,SYN-P0782,87,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,4061.46
+2025-06-13,SYN-P0783,1,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,1881.39
+2025-04-17,SYN-P0784,26,Male,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Discharged,1020.49
+2025-01-04,SYN-P0785,1,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,3733.59
+2025-02-02,SYN-P0786,52,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,1,Follow-up advised,5472.42
+2025-07-17,SYN-P0787,61,Male,Orthopedics,Inpatient,Back pain (sample group),Physiotherapy,6,Discharged,14005.62
+2025-09-20,SYN-P0788,45,Male,Cardiology,Inpatient,Cardiac review (sample group),Consultation,8,Discharged,22115.28
+2025-11-17,SYN-P0789,45,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,1,Discharged,8052.88
+2025-01-12,SYN-P0790,56,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,3749.21
+2025-06-08,SYN-P0791,95,Male,Orthopedics,Inpatient,Fracture review (sample group),Physiotherapy,8,Follow-up advised,19580.73
+2025-09-13,SYN-P0792,37,Female,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Discharged,944.07
+2025-04-12,SYN-P0793,46,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Discharged,3318.43
+2025-04-15,SYN-P0794,8,Male,Neurology,Inpatient,Migraine review (sample group),Consultation,8,Discharged,20268.37
+2025-06-26,SYN-P0795,64,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,3752.96
+2025-11-30,SYN-P0796,50,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,1,Discharged,6207.77
+2025-12-13,SYN-P0797,54,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,1284.81
+2025-05-26,SYN-P0798,62,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,0,Discharged,2954.6
+2025-09-28,SYN-P0799,65,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,3474.91
+2025-01-19,SYN-P0800,81,Female,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,3752.47
+2025-09-01,SYN-P0801,41,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,682.7
+2025-01-10,SYN-P0802,74,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Follow-up advised,1442.25
+2025-11-01,SYN-P0803,53,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,1,Discharged,4863.79
+2025-09-25,SYN-P0804,24,Female,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,1,Referred,6461.87
+2025-11-25,SYN-P0805,66,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,2024.98
+2025-07-30,SYN-P0806,18,Male,Neurology,Inpatient,Neurological review (sample group),Consultation,3,Referred,8630.86
+2025-04-27,SYN-P0807,35,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,1845.85
+2025-09-08,SYN-P0808,42,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Follow-up advised,1243.74
+2025-05-11,SYN-P0809,48,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,4891.53
+2025-04-28,SYN-P0810,15,Other/Not recorded,Cardiology,Inpatient,Hypertension (sample group),ECG review,8,Discharged,20616.57
+2025-01-12,SYN-P0811,33,Female,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,1,Follow-up advised,5245.66
+2025-02-09,SYN-P0812,88,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Follow-up advised,3320.31
+2025-06-24,SYN-P0813,59,Male,Dermatology,Outpatient,Skin irritation (sample group),Consultation,0,Referred,4126.15
+2025-03-01,SYN-P0814,11,Male,General Medicine,Inpatient,Diabetes review (sample group),Consultation,6,Discharged,17926.2
+2025-06-04,SYN-P0815,56,Male,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,5759.19
+2025-09-11,SYN-P0816,27,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,4443.18
+2025-07-29,SYN-P0817,8,Male,Dermatology,Outpatient,Rash (sample group),Consultation,0,Discharged,2232.63
+2025-01-31,SYN-P0818,13,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Follow-up advised,3803.62
+2025-11-06,SYN-P0819,41,Male,Orthopedics,Outpatient,Back pain (sample group),X-ray review,1,Discharged,6472.66
+2025-04-05,SYN-P0820,14,Female,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,1138.49
+2025-10-17,SYN-P0821,32,Female,Neurology,Inpatient,Neurological review (sample group),Consultation,6,Discharged,17386.27
+2025-12-08,SYN-P0822,26,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,1,Follow-up advised,5300.16
+2025-03-30,SYN-P0823,95,Female,Cardiology,Outpatient,Cardiac review (sample group),ECG review,1,Discharged,5062.24
+2025-06-10,SYN-P0824,50,Male,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,2378.69
+2025-07-19,SYN-P0825,19,Female,Cardiology,Inpatient,Chest discomfort (sample group),Consultation,3,Discharged,9845.07
+2025-03-16,SYN-P0826,39,Male,ENT,Outpatient,Sinus complaint (sample group),Throat examination,0,Follow-up advised,3246.87
+2025-08-27,SYN-P0827,6,Male,Orthopedics,Inpatient,Joint pain (sample group),Consultation,1,Discharged,4353.75
+2025-02-08,SYN-P0828,6,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,2318.09
+2025-02-09,SYN-P0829,32,Male,Cardiology,Inpatient,Chest discomfort (sample group),Lifestyle counselling,3,Discharged,11912.13
+2025-07-16,SYN-P0830,69,Male,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,0,Discharged,2681.91
+2025-10-24,SYN-P0831,23,Female,Dermatology,Outpatient,Rash (sample group),Topical care review,1,Discharged,4064.16
+2025-05-07,SYN-P0832,63,Male,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,3655.31
+2025-08-29,SYN-P0833,45,Female,Pediatrics,Outpatient,Fever (sample group),Growth check,1,Follow-up advised,7062.44
+2025-11-20,SYN-P0834,40,Male,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Follow-up advised,2361.21
+2025-01-28,SYN-P0835,44,Male,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,6483.69
+2025-12-28,SYN-P0836,14,Male,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,1,Referred,7264.7
+2025-09-14,SYN-P0837,9,Male,Orthopedics,Inpatient,Joint pain (sample group),Consultation,4,Referred,9516.28
+2025-07-14,SYN-P0838,47,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,2339.58
+2025-12-30,SYN-P0839,46,Female,Pediatrics,Inpatient,Fever (sample group),Vaccination visit,7,Follow-up advised,19989.42
+2025-11-09,SYN-P0840,72,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,4514.32
+2025-07-16,SYN-P0841,58,Female,Neurology,Inpatient,Neurological review (sample group),Neurological assessment,8,Follow-up advised,19765.57
+2025-01-13,SYN-P0842,1,Female,General Medicine,Inpatient,Fever (sample group),Medication review,5,Discharged,15795.88
+2025-09-07,SYN-P0843,39,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4940.38
+2025-12-24,SYN-P0844,22,Male,Dermatology,Outpatient,Rash (sample group),Topical care review,0,Referred,3045.0
+2025-10-21,SYN-P0845,51,Female,General Medicine,Outpatient,Fever (sample group),Medication review,1,Discharged,5428.89
+2025-09-30,SYN-P0846,31,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4183.27
+2025-05-15,SYN-P0847,6,Female,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,2810.78
+2025-02-07,SYN-P0848,67,Male,Orthopedics,Inpatient,Back pain (sample group),Consultation,1,Discharged,4312.45
+2025-06-02,SYN-P0849,20,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,3968.23
+2025-09-16,SYN-P0850,34,Female,Cardiology,Outpatient,Hypertension (sample group),Consultation,1,Discharged,5773.09
+2025-07-03,SYN-P0851,84,Female,Neurology,Outpatient,Migraine review (sample group),Follow-up review,1,Discharged,7558.73
+2025-06-04,SYN-P0852,45,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Follow-up advised,4901.28
+2025-03-08,SYN-P0853,11,Male,Dermatology,Outpatient,Acne review (sample group),Skin assessment,0,Discharged,2804.22
+2025-03-10,SYN-P0854,16,Male,Dermatology,Outpatient,Skin irritation (sample group),Topical care review,0,Discharged,4896.57
+2025-05-10,SYN-P0855,56,Other/Not recorded,Orthopedics,Outpatient,Fracture review (sample group),Consultation,0,Follow-up advised,670.18
+2025-01-08,SYN-P0856,7,Male,Orthopedics,Outpatient,Fracture review (sample group),Consultation,1,Follow-up advised,4458.26
+2025-07-21,SYN-P0857,80,Female,Cardiology,Inpatient,Hypertension (sample group),Lifestyle counselling,3,Follow-up advised,12778.24
+2025-07-20,SYN-P0858,76,Female,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,2815.92
+2025-07-10,SYN-P0859,53,Male,Pediatrics,Inpatient,Routine child check (sample group),Vaccination visit,1,Discharged,5922.9
+2025-12-02,SYN-P0860,28,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,1,Follow-up advised,2930.4
+2025-11-01,SYN-P0861,6,Male,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,4175.57
+2025-03-28,SYN-P0862,39,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,0,Follow-up advised,4678.08
+2025-06-05,SYN-P0863,30,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Follow-up advised,2678.15
+2025-12-08,SYN-P0864,25,Female,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,6428.79
+2025-12-31,SYN-P0865,64,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,1,Follow-up advised,4341.62
+2025-01-01,SYN-P0866,45,Female,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,1622.32
+2025-04-02,SYN-P0867,54,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,4872.87
+2025-02-01,SYN-P0868,54,Female,Cardiology,Outpatient,Hypertension (sample group),Lifestyle counselling,0,Discharged,5233.27
+2025-03-02,SYN-P0869,71,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,4479.23
+2025-12-16,SYN-P0870,49,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Follow-up advised,4452.97
+2025-03-15,SYN-P0871,87,Male,Dermatology,Outpatient,Skin irritation (sample group),Skin assessment,0,Follow-up advised,1411.88
+2025-05-26,SYN-P0872,34,Male,Neurology,Outpatient,Neurological review (sample group),Consultation,0,Discharged,6417.41
+2025-05-26,SYN-P0873,40,Male,Pediatrics,Outpatient,Fever (sample group),Growth check,1,Follow-up advised,5224.73
+2025-11-01,SYN-P0874,23,Female,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Discharged,695.49
+2025-10-21,SYN-P0875,33,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,1,Discharged,6190.0
+2025-04-20,SYN-P0876,49,Female,Orthopedics,Inpatient,Joint pain (sample group),Consultation,6,Discharged,16208.3
+2025-12-04,SYN-P0877,44,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Discharged,1253.62
+2025-12-03,SYN-P0878,1,Male,Cardiology,Inpatient,Cardiac review (sample group),ECG review,2,Follow-up advised,6518.54
+2025-03-31,SYN-P0879,36,Male,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,3311.86
+2025-04-27,SYN-P0880,88,Male,Cardiology,Inpatient,Hypertension (sample group),Consultation,3,Discharged,12529.31
+2025-05-21,SYN-P0881,58,Male,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,1861.91
+2025-08-13,SYN-P0882,45,Male,Cardiology,Inpatient,Cardiac review (sample group),ECG review,1,Follow-up advised,7439.36
+2025-02-04,SYN-P0883,1,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,0,Discharged,4694.54
+2025-09-08,SYN-P0884,62,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Discharged,823.83
+2025-04-07,SYN-P0885,62,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Follow-up advised,1105.75
+2025-11-02,SYN-P0886,32,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,631.5
+2025-02-19,SYN-P0887,40,Male,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Follow-up advised,4109.62
+2025-12-02,SYN-P0888,29,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,0,Follow-up advised,2626.97
+2025-04-25,SYN-P0889,53,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,1,Follow-up advised,4016.1
+2025-10-29,SYN-P0890,1,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,7,Discharged,18536.89
+2025-09-02,SYN-P0891,66,Female,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,1,Discharged,6729.18
+2025-04-24,SYN-P0892,60,Female,ENT,Inpatient,Sinus complaint (sample group),Consultation,8,Discharged,20472.02
+2025-02-24,SYN-P0893,80,Female,Dermatology,Inpatient,Rash (sample group),Skin assessment,8,Referred,19350.88
+2025-07-13,SYN-P0894,34,Male,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4618.08
+2025-08-12,SYN-P0895,26,Female,Orthopedics,Inpatient,Fracture review (sample group),X-ray review,5,Discharged,15454.52
+2025-02-21,SYN-P0896,48,Female,Pediatrics,Inpatient,Fever (sample group),Growth check,5,Follow-up advised,12462.46
+2025-08-13,SYN-P0897,27,Male,ENT,Outpatient,Ear complaint (sample group),Throat examination,0,Discharged,3156.89
+2025-08-01,SYN-P0898,79,Male,ENT,Outpatient,Throat complaint (sample group),Consultation,0,Follow-up advised,3107.22
+2025-11-06,SYN-P0899,1,Female,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Discharged,6202.33
+2025-11-18,SYN-P0900,26,Male,Dermatology,Inpatient,Acne review (sample group),Consultation,5,Discharged,15800.5
+2025-01-01,SYN-P0901,56,Female,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,5560.12
+2025-02-25,SYN-P0902,36,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,2358.11
+2025-04-26,SYN-P0903,59,Male,Neurology,Outpatient,Neurological review (sample group),Follow-up review,1,Follow-up advised,6247.01
+2025-06-13,SYN-P0904,37,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Follow-up advised,4982.42
+2025-03-05,SYN-P0905,59,Male,Pediatrics,Outpatient,Respiratory symptoms (sample group),Growth check,0,Discharged,2793.88
+2025-10-22,SYN-P0906,1,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Discharged,4888.05
+2025-12-06,SYN-P0907,33,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,3057.77
+2025-07-18,SYN-P0908,26,Female,Orthopedics,Inpatient,Back pain (sample group),X-ray review,1,Discharged,6981.26
+2025-03-14,SYN-P0909,19,Female,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,1,Discharged,8049.67
+2025-08-09,SYN-P0910,38,Male,General Medicine,Inpatient,Diabetes review (sample group),Consultation,8,Discharged,22218.71
+2025-06-09,SYN-P0911,87,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,4216.1
+2025-01-15,SYN-P0912,78,Other/Not recorded,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,0,Referred,3894.3
+2025-07-22,SYN-P0913,8,Male,Orthopedics,Inpatient,Joint pain (sample group),Consultation,8,Discharged,19782.57
+2025-03-22,SYN-P0914,47,Male,Pediatrics,Outpatient,Fever (sample group),Consultation,0,Discharged,2761.73
+2025-06-19,SYN-P0915,52,Female,Neurology,Inpatient,Headache (sample group),Neurological assessment,1,Discharged,5914.41
+2025-03-22,SYN-P0916,63,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,6485.95
+2025-04-16,SYN-P0917,68,Female,Pediatrics,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,5881.18
+2025-05-12,SYN-P0918,63,Female,Neurology,Outpatient,Headache (sample group),Follow-up review,0,Discharged,2659.77
+2025-11-17,SYN-P0919,57,Female,Dermatology,Outpatient,Rash (sample group),Consultation,1,Discharged,4745.1
+2025-06-01,SYN-P0920,48,Male,Neurology,Inpatient,Neurological review (sample group),Neurological assessment,7,Discharged,18644.29
+2025-03-27,SYN-P0921,26,Female,General Medicine,Inpatient,Diabetes review (sample group),Laboratory review,5,Follow-up advised,11898.02
+2025-10-24,SYN-P0922,26,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,6421.29
+2025-12-25,SYN-P0923,70,Female,Cardiology,Outpatient,Cardiac review (sample group),Lifestyle counselling,0,Discharged,2316.31
+2025-02-08,SYN-P0924,67,Female,Neurology,Outpatient,Migraine review (sample group),Consultation,1,Discharged,4258.8
+2025-12-17,SYN-P0925,29,Female,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,1,Follow-up advised,3929.19
+2025-12-03,SYN-P0926,1,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Follow-up advised,3699.8
+2025-01-07,SYN-P0927,65,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Consultation,1,Discharged,6618.05
+2025-04-14,SYN-P0928,45,Female,Neurology,Outpatient,Neurological review (sample group),Consultation,1,Discharged,5496.76
+2025-08-01,SYN-P0929,44,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,1,Discharged,4566.02
+2025-12-17,SYN-P0930,52,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Referred,778.65
+2025-04-14,SYN-P0931,10,Female,General Medicine,Inpatient,Respiratory symptoms (sample group),Consultation,4,Follow-up advised,10841.33
+2025-03-08,SYN-P0932,49,Female,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,1,Follow-up advised,2830.01
+2025-12-21,SYN-P0933,56,Male,Dermatology,Inpatient,Acne review (sample group),Consultation,1,Discharged,2832.96
+2025-03-08,SYN-P0934,32,Male,Cardiology,Outpatient,Hypertension (sample group),ECG review,1,Follow-up advised,6025.78
+2025-07-19,SYN-P0935,18,Male,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,4690.18
+2025-11-27,SYN-P0936,78,Male,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,0,Discharged,1983.36
+2025-03-16,SYN-P0937,1,Male,Dermatology,Outpatient,Acne review (sample group),Consultation,0,Follow-up advised,4789.43
+2025-06-12,SYN-P0938,59,Male,ENT,Outpatient,Ear complaint (sample group),Consultation,0,Discharged,769.3
+2025-08-30,SYN-P0939,3,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,1,Discharged,5146.33
+2025-04-23,SYN-P0940,37,Male,ENT,Inpatient,Sinus complaint (sample group),Consultation,4,Follow-up advised,13202.91
+2025-02-08,SYN-P0941,16,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Referred,1001.85
+2025-04-10,SYN-P0942,27,Female,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Follow-up advised,2262.0
+2025-09-18,SYN-P0943,42,Male,Neurology,Outpatient,Neurological review (sample group),Neurological assessment,1,Discharged,7953.68
+2025-05-22,SYN-P0944,58,Male,Pediatrics,Outpatient,Routine child check (sample group),Consultation,0,Follow-up advised,3796.34
+2025-08-16,SYN-P0945,11,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Follow-up advised,3527.7
+2025-04-16,SYN-P0946,66,Other/Not recorded,Neurology,Outpatient,Migraine review (sample group),Follow-up review,1,Follow-up advised,8401.86
+2025-10-02,SYN-P0947,52,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Discharged,902.14
+2025-02-10,SYN-P0948,1,Female,General Medicine,Outpatient,Diabetes review (sample group),Consultation,0,Discharged,3416.1
+2025-07-20,SYN-P0949,37,Male,Neurology,Outpatient,Headache (sample group),Neurological assessment,0,Follow-up advised,2964.9
+2025-07-05,SYN-P0950,95,Male,Orthopedics,Outpatient,Joint pain (sample group),Consultation,0,Discharged,4864.05
+2025-10-16,SYN-P0951,79,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Follow-up advised,1094.14
+2025-06-08,SYN-P0952,25,Female,Neurology,Outpatient,Neurological review (sample group),Follow-up review,0,Discharged,6268.55
+2025-11-02,SYN-P0953,58,Female,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,0,Discharged,4576.89
+2025-06-25,SYN-P0954,69,Female,ENT,Inpatient,Ear complaint (sample group),Consultation,1,Discharged,4247.78
+2025-08-07,SYN-P0955,32,Other/Not recorded,Orthopedics,Inpatient,Fracture review (sample group),Consultation,5,Discharged,12427.94
+2025-04-29,SYN-P0956,49,Female,Dermatology,Outpatient,Acne review (sample group),Topical care review,0,Referred,1854.09
+2025-03-22,SYN-P0957,12,Male,General Medicine,Outpatient,Diabetes review (sample group),Laboratory review,0,Referred,2797.09
+2025-09-30,SYN-P0958,15,Male,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4353.53
+2025-04-03,SYN-P0959,60,Female,Cardiology,Inpatient,Cardiac review (sample group),Consultation,4,Discharged,13208.35
+2025-11-17,SYN-P0960,2,Male,Dermatology,Inpatient,Skin irritation (sample group),Consultation,4,Discharged,11902.94
+2025-12-21,SYN-P0961,22,Male,Cardiology,Outpatient,Chest discomfort (sample group),ECG review,1,Referred,4509.33
+2025-09-18,SYN-P0962,8,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,1060.18
+2025-03-12,SYN-P0963,48,Female,Orthopedics,Outpatient,Fracture review (sample group),X-ray review,0,Discharged,3715.44
+2025-07-15,SYN-P0964,36,Female,Cardiology,Outpatient,Cardiac review (sample group),Consultation,0,Discharged,3955.91
+2025-08-20,SYN-P0965,66,Male,Cardiology,Inpatient,Hypertension (sample group),Consultation,4,Discharged,14940.87
+2025-03-08,SYN-P0966,63,Female,Pediatrics,Outpatient,Routine child check (sample group),Growth check,1,Referred,4948.49
+2025-01-04,SYN-P0967,17,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Medication review,0,Referred,1918.68
+2025-11-10,SYN-P0968,10,Male,Neurology,Outpatient,Headache (sample group),Consultation,0,Discharged,4099.98
+2025-02-14,SYN-P0969,56,Male,Neurology,Inpatient,Headache (sample group),Neurological assessment,7,Discharged,20776.75
+2025-05-24,SYN-P0970,44,Female,Pediatrics,Outpatient,Fever (sample group),Vaccination visit,0,Follow-up advised,1676.08
+2025-01-21,SYN-P0971,62,Male,General Medicine,Inpatient,Diabetes review (sample group),Medication review,4,Discharged,9790.44
+2025-06-06,SYN-P0972,50,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Follow-up advised,2456.77
+2025-02-13,SYN-P0973,41,Male,General Medicine,Outpatient,Diabetes review (sample group),Medication review,0,Discharged,4407.74
+2025-12-26,SYN-P0974,38,Female,General Medicine,Outpatient,Fever (sample group),Medication review,1,Referred,3790.57
+2025-07-02,SYN-P0975,61,Female,Cardiology,Outpatient,Hypertension (sample group),ECG review,0,Discharged,3706.74
+2025-07-20,SYN-P0976,42,Other/Not recorded,General Medicine,Outpatient,Fever (sample group),Medication review,0,Discharged,2820.86
+2025-04-13,SYN-P0977,18,Male,Orthopedics,Outpatient,Fracture review (sample group),Physiotherapy,0,Discharged,3455.8
+2025-10-14,SYN-P0978,68,Female,General Medicine,Outpatient,Fever (sample group),Consultation,0,Follow-up advised,1483.91
+2025-05-31,SYN-P0979,62,Male,ENT,Outpatient,Throat complaint (sample group),Consultation,0,Discharged,855.96
+2025-01-16,SYN-P0980,81,Female,Orthopedics,Outpatient,Back pain (sample group),Consultation,0,Discharged,664.89
+2025-09-23,SYN-P0981,68,Male,ENT,Outpatient,Sinus complaint (sample group),Ear examination,0,Discharged,3868.11
+2025-03-11,SYN-P0982,51,Female,General Medicine,Outpatient,Diabetes review (sample group),Medication review,1,Follow-up advised,5853.17
+2025-04-13,SYN-P0983,92,Female,General Medicine,Inpatient,Respiratory symptoms (sample group),Medication review,7,Discharged,18017.9
+2025-07-13,SYN-P0984,23,Male,Cardiology,Outpatient,Chest discomfort (sample group),Lifestyle counselling,0,Discharged,3863.09
+2025-01-30,SYN-P0985,59,Male,Neurology,Outpatient,Migraine review (sample group),Consultation,0,Discharged,4426.97
+2025-02-24,SYN-P0986,54,Male,Pediatrics,Outpatient,Routine child check (sample group),Growth check,0,Discharged,2072.09
+2025-05-12,SYN-P0987,44,Male,Orthopedics,Inpatient,Joint pain (sample group),X-ray review,1,Discharged,5073.32
+2025-03-24,SYN-P0988,1,Male,ENT,Outpatient,Ear complaint (sample group),Ear examination,0,Discharged,2232.15
+2025-07-29,SYN-P0989,49,Male,General Medicine,Outpatient,Respiratory symptoms (sample group),Laboratory review,0,Follow-up advised,4302.92
+2025-01-28,SYN-P0990,67,Male,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Discharged,1963.3
+2025-05-24,SYN-P0991,46,Female,Orthopedics,Inpatient,Back pain (sample group),Consultation,7,Discharged,18156.11
+2025-04-03,SYN-P0992,54,Female,General Medicine,Outpatient,Fever (sample group),Laboratory review,0,Discharged,807.73
+2025-08-26,SYN-P0993,37,Male,General Medicine,Inpatient,Fever (sample group),Consultation,2,Discharged,6976.0
+2025-06-04,SYN-P0994,20,Female,Orthopedics,Outpatient,Back pain (sample group),Physiotherapy,1,Discharged,6873.11
+2025-01-23,SYN-P0995,57,Female,Orthopedics,Outpatient,Joint pain (sample group),Physiotherapy,0,Follow-up advised,1200.09
+2025-03-11,SYN-P0996,20,Male,General Medicine,Inpatient,Respiratory symptoms (sample group),Medication review,7,Discharged,16534.04
+2025-02-10,SYN-P0997,30,Male,Cardiology,Outpatient,Hypertension (sample group),Consultation,0,Discharged,6396.16
+2025-04-08,SYN-P0998,1,Male,Neurology,Inpatient,Headache (sample group),Follow-up review,5,Referred,14234.53
+2025-11-19,SYN-P0999,50,Female,ENT,Outpatient,Throat complaint (sample group),Throat examination,0,Follow-up advised,1838.83
+2025-11-17,SYN-P1000,54,Female,Orthopedics,Outpatient,Joint pain (sample group),X-ray review,0,Discharged,4112.29
